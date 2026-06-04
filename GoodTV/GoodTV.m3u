@@ -690,9 +690,6 @@ http://95.66.188.74/Arsenal_HD/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Арт
 http://95.47.156.60:8000/play/a011/index.m3u8
 
-#EXTINF:-1 group-title="Познавательные", Большая Азия
-https://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 group-title="Познавательные", Вкус
 http://tvip.btk.teleos.ru:8081/chid515/index.m3u8
 
@@ -714,20 +711,8 @@ http://95.66.188.74/Zoo_TV/mono.m3u8
 #EXTINF:-1 group-title="Познавательные", История
 http://185.46.16.239:8000/Istoriya
 
-#EXTINF:-1 group-title="Познавательные", Конгресс ТВ
-https://stitch.teletarget.ru/api/v1/hls/504/135/index.m3u8
-
-#EXTINF:-1 group-title="Познавательные", Конгресс ТВ HD
-https://live-4.otcnet.ru/504/135/1080p/index.m3u8
-
 #EXTINF:-1 group-title="Познавательные", Кто есть кто
 http://158.101.222.193:88/georgia_play.php?id=ktoestkto
-
-#EXTINF:-1 group-title="Познавательные" tvg-id="ldpr-tv", ЛДПР ТВ
-http://46.46.143.222:1935/live/ldpr.stream_480p/playlist.m3u8
-
-#EXTINF:-1 group-title="Познавательные" tvg-id="ldpr-tv", ЛДПР ТВ HD
-http://46.46.143.222:1935/live/ldpr.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="Познавательные" tvg-id="moskovsky-obrazovatelny", Московское образование
 http://retc.educom.ru/mosobrtv/tv1/index.m3u8
@@ -761,9 +746,6 @@ http://178.217.72.72/Pervyy_Vegetarianskiy/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Познавательные", Победа
 http://46.8.46.14/Pobeda/index.m3u8
-
-#EXTINF:-1 group-title="Познавательные", Про бизнес
-https://tv-streaming.bsh.ru:21938/probusiness/probusiness.stream/chunklist.m3u8
 
 #EXTINF:-1 group-title="Познавательные", Ратник
 http://iptv46.mcx-ix.ru:8077/ratnik_hd/index.m3u8
@@ -806,18 +788,6 @@ http://45.159.74.22/Channel_123/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="h2" group-title="Познавательные", History2 HD
 https://tvoe.live/api/stream/ch433/mono.m3u8?token=tvoelive.DSo0SUcalxD-kuqpxCblCnXoy64idI0mc0Snc716rr5sqW40oCKDpUvCoBZGOKhW
-
-#EXTINF:-1 group-title="Познавательные" tvg-id="tv-brics", TV BRICS
-http://origin5.mediacdn.ru/live/brics/index.m3u8
-
-#EXTINF:-1 group-title="Познавательные" tvg-id="tv-brics", TV BRICS HD
-http://rusbrics.mediacdn.ru/cdn/brics/russian/playlist_hdhigh.m3u8
-
-#EXTINF:-1 group-title="Познавательные" tvg-id="univer-tv", Univer
-http://cdn.universmotri.ru/live/mq.sdp/playlist.m3u8
-
-#EXTINF:-1 group-title="Познавательные" tvg-id="univer-tv", Univer HD
-http://cdn.universmotri.ru/live/smil:mbr.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="univer-tv" tvg-logo="https://iptvx.one/picons/univer-tv.png" group-title="Познавательные" ,UNIVER
 https://cdn.universmotri.ru/live/hq.sdp/playlist.m3u8
