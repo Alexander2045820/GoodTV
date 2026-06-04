@@ -93,15 +93,8 @@ http://hls-rictv.cdnvideo.ru/rictv/rictv-srt-stream/playlist.m3u8
 #EXTINF:-1 group-title="Новости", Мир 24 
 http://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="Новости", Москва 24
-http://194.32.242.245/moskva24/index.m3u8
-
 #EXTINF:-1 tvg-id="novy-vek-tambov" tvg-logo="https://iptvx.one/picons/novy-vek-tambov.png" group-title="Новости",Новый Век
 http://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Tambov/hls/1280x720@2500/playlist.m3u8
-
-#EXTINF:-1 tvg-id="lipeckoe-vremia" catchup="append" tvg-logo="https://i.ibb.co/C6dNcxv/Lipeckoe-vremya-256x256.png" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Новости",Липецкое время 
-#EXTVLCOPT:http-user-agent=SmartTV
-http://rt-ct-lipetsk-htlive.cdn.ngenix.net/hls/CH_R02_OTT_CT_LIPETSK_LVREM/variant.m3u8
 
 #EXTINF:-1 group-title="Новости", Первый информационный
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:informacionnyy.smil/playlist.m3u8
@@ -109,17 +102,11 @@ https://ngtrk.dc.beltelecom.by/ngtrk/smil:informacionnyy.smil/playlist.m3u8
 #EXTINF:-1 group-title="Новости", РБК
 http://online.video.rbc.ru/online/rbctvhd_1080p/index.m3u8
 
-#EXTINF:-1 group-title="Новости" tvg-id="tro", БелРос
-http://live2.mediacdn.ru/sr1/tro/playlist_1.5M.m3u8
-
 #EXTINF:-1 group-title="Новости" tvg-id="vmeste-rf", Вместе-РФ
 https://qcpdqumitwf.a.trbcdn.net/livemastersrt/pr4mw_lvie-vmesterf-srt.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="Новости" tvg-id="krym24", Крым 24
 http://live24.1tvcrimea.ru/switcher.m3u8
-
-#EXTINF:-1 group-title="Новости" tvg-id="nts-sevastopol", НТС Севастополь
-http://peqk71plnjy.a.trbcdn.net/livemaster/w4kz7pki62_nts_tv/playlist.m3u8
 
 #EXTINF:-1 group-title="Новости" tvg-id="pervy-krymsky", Первый крымский
 http://live1.1tvcrimea.ru/1tvcrimea.m3u8
@@ -127,10 +114,55 @@ http://live1.1tvcrimea.ru/1tvcrimea.m3u8
 #EXTINF:-1 group-title="Новости" tvg-id="stv-by", СТВ Беларусь
 http://edge50.dc.beltelecom.by/ctv/ctv.stream/chunklist_b5160000_sleng.m3u8
 
-#EXTINF:-1 group-title="Новости", Соловьев Live HD
-https://player.smotrim.ru/iframe/stream/live_id/985d5c7b-9727-4942-a4ba-a6e852caf0c1
+#EXTINF:-1 tvg-id="cctv-ru" tvg-logo="https://iptvx.one/picons/cctv-ru.png" group-title="Новости" ,CGTN Русский HD
+http://russian-livews.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd/playlist.m3u8
 
-#EXTINF:-1 group-title="Новости", ТАСС
+#EXTINF:-1 tvg-id="stv-by" tvg-logo="https://iptvx.one/picons/stv-by.png" group-title="Новости" ,CTV.BY HD
+http://ctv.dc.beltelecom.by/ctv/ctv.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="tv-brics" tvg-logo="https://iptvx.one/picons/tv-brics.png" group-title="Новости" ,TV BRICS
+http://brics.bonus-tv.ru/cdn/brics/russian/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="bolshaya-azia" tvg-logo="https://iptvx.one/picons/bolshaya-azia.png" group-title="Новости",Большая Азия HD
+https://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="vremia" tvg-logo="https://iptvx.one/picons/vremia.png" group-title="Новости" ,Время
+http://46.32.176.50/Vremya/index.m3u8
+
+#EXTINF:-1 tvg-id="kongresstv" tvg-logo="https://iptvx.one/picons/kongresstv.png" group-title="Новости" ,Конгресс ТВ
+https://live-4.otcnet.ru/504/135/480p/index.m3u8
+
+#EXTINF:-1 tvg-id="krasnaya-linia" tvg-logo="https://iptvx.one/picons/krasnaya-linia.png" group-title="Новости" ,Красная линия
+http://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/index.m3u8
+
+#EXTINF:-1 tvg-id="ldpr-tv" tvg-logo="https://iptvx.one/picons/ldpr-tv.png" group-title="Новости" ,ЛДПР ТВ
+http://46.46.143.222:1935/live/mp4:ldpr.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="prnk-tv" tvg-logo="https://iptvx.one/picons/prnk-tv.png" group-title="Новости" ,ПРНК HD
+https://serv25.vintera.tv/1pnk/prnk/chunks.m3u8
+
+#EXTINF:-1 tvg-id="euronews" tvg-logo="https://iptvx.one/picons/euronews.png" group-title="Новости" ,Euronews
+https://stream8.cinerama.uz/1024/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="belarus24" tvg-logo="https://iptvx.one/picons/belarus24.png" group-title="Новости",Беларусь 24 HD
+https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus24.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="vmeste-rf" tvg-logo="https://iptvx.one/picons/vmeste-rf.png" group-title="Новости",ВМЕСТЕ РФ HD
+https://qcpdqumitwf.a.trbcdn.net/livemastersrt/pr4mw_lvie-vmesterf-srt.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="mir-24" tvg-logo="https://iptvx.one/picons/mir24.png" group-title="Новости" ,Мир 24 HD
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
+
+#EXTINF:-1 tvg-id="pervy-info-by" tvg-logo="https://iptvx.one/picons/pervy-info-by.png" group-title="Новости",Первый информационный HD
+https://edge50.dc.beltelecom.by/ngtrk/_definst_/smil:informacionnyy.smil/chunklist_w868240704_b5160000_sleng.m3u8
+
+#EXTINF:-1 tvg-id="pro-business" tvg-logo="https://iptvx.one/picons/pro-business.png" group-title="Новости",Про бизнес
+https://tv-streaming.bsh.ru:21938/probusiness/probusiness.stream/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="rbk" tvg-logo="https://iptvx.one/picons/rbk.png" group-title="Новости" ,РБК HD
+http://online.video.rbc.ru/online/rbctvhd_1080p/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/61/TASS_Logo_Cyrillic.svg" group-title="Новости" ,ТАСС
 https://tass-hls.servicecdn.ru/httpstreamer/tass-loop-main.stream/playlist.m3u8
 
 
