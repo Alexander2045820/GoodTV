@@ -932,20 +932,11 @@ http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
 https://uiptv.do.am/1ufc/602079679/playlist.m3u8
 
 
-#EXTINF:-1 group-title="Взрослые [ВХОД СТРОГО 18+]", Кино 18+ International
-https://v2.catcast.tv/content/40381/index.m3u8
-
 #EXTINF:-1 tvg-id="playboy-tv" group-title="Взрослые [ВХОД СТРОГО 18+]", Playboy TV
 http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
 
 #EXTINF:-1 tvg-id="exxxotica" group-title="Взрослые [ВХОД СТРОГО 18+]", Exxxotica
 http://31.148.48.15:80/O-la-la/index.m3u8
-
-#EXTINF:-1 tvg-id="shalun" group-title="Взрослые [ВХОД СТРОГО 18+]", Шалун HD
-http://88.218.242.237:8000/play/a00h
-
-#EXTINF:-1 tvg-id="super-one" group-title="Взрослые [ВХОД СТРОГО 18+]", Super One HD
-rtmp://5.182.229.90//7001
 
 #EXTINF:-1 tvg-id="digital-desire" group-title="Взрослые [ВХОД СТРОГО 18+]", Digital Desire
 #EXTVLCOPT:http-user-agent=SmartTV
@@ -982,9 +973,6 @@ http://88.212.7.11/live/test_leo_hd_hevc/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.goiptv.top/upload/REALITY-KINGS-TV-LOGO.png" tvg-id="no_epg_xxx" group-title="Взрослые [ВХОД СТРОГО 18+]", Reality Kings TV
 #EXTVLCOPT:http-user-agent=SmartTV
 http://88.212.7.11/live/test_realitykings_sd_hevc/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/passionxxx.png" tvg-id="passionxxx" group-title="Взрослые [ВХОД СТРОГО 18+]", PassionXXX HD
-https://5f22d76e220e1.streamlock.net/canale9/canale9/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://images2.imgbox.com/bd/ef/UGIAhdsJ_o.png" tvg-id="no_epg_xxx" group-title="Взрослые [ВХОД СТРОГО 18+]", FANTASYHD 1
 http://videos.galleries.pornpros.com/galleries.fantasyhd.com/htdocs/fb02/fb02_ellamilano/content/vid01.mp4
