@@ -246,14 +246,6 @@ http://cdn.kubteltv.workers.dev/?ID=316
 #EXTVLCOPT:http-user-agent=TiviMate/2.8.0
 http://cdn.kubteltv.workers.dev/?ID=328
 
-#EXTINF:-1  tvg-id="domkino" ,Дом кино
-#EXTGRP:Кино
-http://188.225.31.197/bpk-tv/000000050/tve/index.m3u8
-
-#EXTINF:-1  tvg-id="domkino-premium" ,Дом кино Premium HD
-#EXTGRP:Кино
-http://188.225.31.197/bpk-tv/000002943/tve/index.m3u8
-
 #EXTINF:-1,Кинеко
 #EXTGRP:Кино
 #EXTVLCOPT:http-user-agent=TiviMate/2.8.0
@@ -358,6 +350,27 @@ http://cdn.kubteltv.workers.dev/?ID=193
 #EXTGRP:Кино
 #EXTVLCOPT:http-user-agent=TiviMate/2.8.0
 http://cdn.kubteltv.workers.dev/?ID=381
+
+#EXTINF:-1 tvg-id="sony-turbo" tvg-logo="https://iptvx.one/picons/sony-turbo.png" group-title="Кино",.black
+http://158.101.222.193:88/georgia_play.php?id=black
+
+#EXTINF:-1 tvg-id="312-kino" tvg-logo="https://iptvx.one/picons/312-kino.png" group-title="Кино" ,312 Кино
+http://176.126.166.43:1935/live/312kino/playlist.m3u8
+
+#EXTINF:-1 tvg-id="amedia-premium" tvg-logo="https://iptvx.one/picons/amedia-premium.png" group-title="Кино" ,Amedia Premium HD
+http://45.145.32.13:20440/amedia_premium_hd/index.m3u8?token=test
+
+#EXTINF:-1 tvg-id="bollywood-hd" tvg-logo="https://iptvx.one/picons/bollywood-hd.png" group-title="Кино" ,Bollywood HD
+http://93.84.115.174:10181/foxlifehd
+
+#EXTINF:-1 tvg-id="hollywood" tvg-logo="https://iptvx.one/picons/hollywood.png" group-title="Кино" ,HollywooD
+https://stream8.cinerama.uz/1443/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="kino-24" tvg-logo="https://iptvx.one/picons/kino-24.png" group-title="Кино",Kino 24
+http://sirius.greenhosting.ru/Kino24Ru/video.m3u8
+
+#EXTINF:-1 tvg-id="retro-tv" tvg-logo="https://iptvx.one/picons/retro-tv.png" group-title="Кино" ,Ретро
+http://176.118.197.101/Retro/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pBZQdVdM/image-30.png" tvg-id="" group-title="Кино", Шеф
 https://cdn-dvr.ntv.ru/Shef/tracks-v1a1/mono.ts.m3u8
