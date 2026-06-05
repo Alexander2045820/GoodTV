@@ -705,7 +705,7 @@ http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
 #EXTINF:-1 tvg-id="muzsoyuz" tvg-logo="https://iptvx.one/picons/muzsoyuz.png" group-title="Религиозные" ,МузСоюз HD
 http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3u8
 
-#EXTINF:-1 tvg-id="nadezhda" tvg-logo="https://iptvx.one/picons/nadezhda.png" group-title="Христианские" ,Надежда HD
+#EXTINF:-1 tvg-id="nadezhda" tvg-logo="https://iptvx.one/picons/nadezhda.png" group-title="Религиозные" ,Надежда HD
 http://tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/tracks-v1a1/mono.m3u8?hls_proxy_host=5edf215ae950326c87f8788991c1ffc7
 
 #EXTINF:-1 group-title="Религиозные", Три ангела
