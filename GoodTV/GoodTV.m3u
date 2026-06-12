@@ -238,7 +238,7 @@ http://cdn.kubteltv.workers.dev/?ID=172
 #EXTVLCOPT:http-user-agent=TiviMate/2.8.0
 http://cdn.kubteltv.workers.dev/?ID=219
 
-#EXTINF:-1,Хит 
+#EXTINF:-1 tvg-id="khit" ,Хит 
 #EXTGRP:Кино
 #EXTVLCOPT:http-user-agent=TiviMate/2.8.0
 http://cdn.kubteltv.workers.dev/?ID=255
