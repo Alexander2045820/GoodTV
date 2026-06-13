@@ -700,7 +700,7 @@ http://cdn.kubteltv.workers.dev/?ID=111
 #EXTVLCOPT:http-user-agent=TiviMate/2.8.0
 http://cdn.kubteltv.workers.dev/?ID=113
 
-#EXTINF:-1,Боец
+#EXTINF:-1,Матч! Боец
 #EXTGRP:Спортивные
 #EXTVLCOPT:http-user-agent=TiviMate/2.8.0
 http://cdn.kubteltv.workers.dev/?ID=112
