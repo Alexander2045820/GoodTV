@@ -974,6 +974,58 @@ http://serv30.vintera.tv:8081/sochi/sochi_stream/playlist.m3u8
 https://stream8.cinerama.uz/1424/tracks-v1a1/mono.m3u8
 
 
+#EXTINF:-1 group-title="Беларусь",Беларусь 1 
+https://edge50.dc.beltelecom.by/ngtrk/smil:belarus1.smil/chunklist_b5160000_sleng.m3u8
+
+#EXTINF:-1 group-title="Беларусь",Беларусь 2 
+https://edge50.dc.beltelecom.by/ngtrk/smil:belarus2.smil/chunklist_b5160000_sleng.m3u8
+
+#EXTINF:-1 group-title="Беларусь",Беларусь 3 
+https://edge50.dc.beltelecom.by/ngtrk/smil:belarus3.smil/chunklist_b5160000_sleng.m3u8
+
+#EXTINF:-1 group-title="Беларусь",Беларусь 5 
+https://edge50.dc.beltelecom.by/ngtrk/smil:belarus5.smil/chunklist_b2660000_sleng.m3u8
+
+#EXTINF:-1 group-title="Беларусь",Беларусь 24 
+https://edge50.dc.beltelecom.by/ngtrk/smil:belarus24.smil/chunklist_b5160000_sleng.m3u8
+
+#EXTINF:-1 group-title="Беларусь",ТВ3 Беларусь
+https://radio.tvs.by:8089/TB-3/index.m3u8
+
+#EXTINF:-1 group-title="Беларусь",Первый информационный 
+https://edge50.dc.beltelecom.by/ngtrk/smil:informacionnyy.smil/chunklist_b5160000_sleng.m3u8
+
+#EXTINF:-1 group-title="Беларусь",СТВ 
+https://edge50.dc.beltelecom.by/ctv/ctv.stream/chunklist_b5160000_sleng.m3u8
+
+#EXTINF:-1 group-title="Беларусь",Союзный
+http://radio.tvs.by:8088/TRO/index.m3u8
+
+#EXTINF:-1 group-title="Беларусь",Витебск
+https://ngtrk.dc.beltelecom.by/vtv/_definst_/vitebsk.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Беларусь",Пинск ТВ
+http://178.124.207.1:1780/tvp
+
+#EXTINF:-1 group-title="Беларусь",Интекс Барановичи
+http://86.57.177.44:8110/intex
+
+#EXTINF:-1 group-title="Беларусь",BelarusTomorrow
+https://hlspackager.akamaized.net/live/DB/BELARUS_TOMORROW/HLS/BELARUS_TOMORROW.m3u8
+
+#EXTINF:-1 group-title="Беларусь",Радио Мир 
+https://stream1.dc.beltelecom.by/radiomir/studio.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Беларусь",Радио Центр 
+https://centrfm.dc.beltelecom.by/centrfm/livestream/playlist.m3u8
+
+#EXTINF:-1 group-title="Беларусь",Новое Радио 
+http://live.novoeradio.by:8081/live/novoeradio_1080p/chunks.m3u8
+
+#EXTINF:-1 group-title="Беларусь", Радио Юмор FM 
+https://player.humorfm.by/mylive/humStudio-low/tracks-v1a1/mono.m3u8
+
+
 #EXTINF:-1 tvg-id="playboy-tv" group-title="Взрослые [ВХОД СТРОГО 18+]", Playboy TV
 http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
 
