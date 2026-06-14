@@ -59,7 +59,8 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8
 http://cdn.kubteltv.workers.dev/?ID=14
 
 #EXTINF:-1 group-title="Федеральные", ТВ3
-http://185.46.16.239:8000/TV3
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0
+http://cdn.kubteltv.workers.dev/?ID=15
 
 #EXTINF:-1 group-title="Федеральные", Пятница!
 https://vod.tuva.ru/friday/index.m3u8
@@ -104,9 +105,6 @@ http://live1.1tvcrimea.ru/1tvcrimea.m3u8
 
 #EXTINF:-1 tvg-id="cctv-ru" tvg-logo="https://iptvx.one/picons/cctv-ru.png" group-title="Новости" ,CGTN Русский 
 http://russian-livews.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd/playlist.m3u8
-
-#EXTINF:-1 tvg-id="stv-by" tvg-logo="https://iptvx.one/picons/stv-by.png" group-title="Новости" ,CTV.BY 
-http://ctv.dc.beltelecom.by/ctv/ctv.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="tv-brics" tvg-logo="https://iptvx.one/picons/tv-brics.png" group-title="Новости" ,TV BRICS
 http://brics.bonus-tv.ru/cdn/brics/russian/tracks-v1a1/mono.m3u8
@@ -606,11 +604,11 @@ http://158.101.222.193:88/georgia_play.php?id=365day
 #EXTINF:-1 group-title="Познавательные", Доктор
 http://45.11.139.43:8555/doctor/index.m3u8
 
-#EXTINF:-1 group-title="Познавательные", Моя планета HD
+#EXTINF:-1 group-title="Познавательные", Моя планета 
 #EXTVLCOPT:http-user-agent=TiviMate/2.8.0
 http://cdn.kubteltv.workers.dev/?ID=349
 
-#EXTINF:-1 group-title="Познавательные", Неизвестная планета HD
+#EXTINF:-1 group-title="Познавательные", Неизвестная планета 
 http://stitch.teletarget.ru/api/v1/hls/vintera/neplaneta/index.m3u8
 
 #EXTINF:-1 group-title="Познавательные", viju Nature
@@ -625,7 +623,7 @@ http://158.101.222.193:88/georgia_play.php?id=viasatexp
 #EXTINF:-1 tvg-id="insight-tv-hd" tvg-logo="https://iptvx.one/picons/insight-tv-hd.png" group-title="Познавательные" ,Insight TV 
 https://stream8.cinerama.uz/1416/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="nat-geo-wild" tvg-logo="https://iptvx.one/picons/nat-geo-wild.png" group-title="Познавательные", Nat Geo Wild
+#EXTINF:-1 tvg-id="nat-geo-wild" tvg-logo="https://iptvx.one/picons/nat-geo-wild.png" group-title="Познавательные", National Geographic Wild
 https://stream8.cinerama.uz/1042/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="national-geographic" tvg-logo="https://iptvx.one/picons/national-geographic.png" group-title="Познавательные" ,National Geographic
