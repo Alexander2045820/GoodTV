@@ -14,12 +14,12 @@ https://bl.video.matchtv.ru/media/playlist/free_d46d0cf1712c0542ec7fd4f0808f600a
 
 #EXTINF:-1 tvg-id="ntv" tvg-logo="https://epg.iptvx.one/picons/ntv.png" group-title="Федеральные" ,НТВ
 #EXTVLCOPT:http-user-agent=TiviMate/2.8.0
-http://cdn.kubteltv.workers.dev/?ID=4
+https://bl.rutube.ru/livestream/c37cd74192c6bc3d6cd6077c0c4fd686/index.m3u8?s=KRpRtdju100oOaCoxpKyPg&e=2066519750&scheme=https
 
 #EXTINF:-1,Пятый канал
 #EXTGRP:Федеральные
-#EXTVLCOPT:http-user-agent=TiviMate/2.8.0
-http://cdn.kubteltv.workers.dev/?ID=423
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+https://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/variant.m3u8
 
 #EXTINF:-1 group-title="Федеральные" tvg-id="kultura" tvg-logo="https://epg.iptvx.one/picons/kultura.png", Россия К
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/index.m3u8
@@ -34,17 +34,17 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8
 #EXTINF:-1,ОТР
 #EXTGRP:Федеральные
 #EXTVLCOPT:http-user-agent=TiviMate/2.8.0
-http://cdn.kubteltv.workers.dev/?ID=9
+https://bl.rutube.ru/livestream/faa934385b83f9e8a92f5484defae5fa/index.m3u8?s=myCiPZ9tgMw3BA2thLhQhA&e=2069285071&scheme=https
 
 #EXTINF:-1,ТВ Центр
 #EXTGRP:Федеральные
-#EXTVLCOPT:http-user-agent=TiviMate/2.8.0
-http://cdn.kubteltv.workers.dev/?ID=10
+#EXTVLCOPT:http-user-agent=TiviMate
+https://stream8.cinerama.uz/1025/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1,РЕН ТВ
 #EXTGRP:Федеральные
 #EXTVLCOPT:http-user-agent=TiviMate/2.8.0
-http://cdn.kubteltv.workers.dev/?ID=11
+http://api.peers.tv/timeshift/ren_tv_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3ODExMTc2MjQsImlhdCI6MTc4MTAzMTIyNCwiY2lkIjo2LCJ1aWQiOjEwNTM2MTY4ODgsInJlZyI6ZmFsc2UsImlwIjo3NjEyNTI4NjAsImFkdWx0IjpmYWxzZX0.3xB4bzYqIIvZDUWP9JGkQLVW7kUVY4fkN2AvrHy7Bjw&offset=10
 
 #EXTINF:-1 group-title="Федеральные", Спас
 http://tvspas.mediacdn.ru/cdn/spas/tracks-v1a1/mono.ts.m3u8
@@ -55,12 +55,12 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8
 
 #EXTINF:-1,Домашний
 #EXTGRP:Федеральные
-#EXTVLCOPT:http-user-agent=TiviMate/2.8.0
-http://cdn.kubteltv.workers.dev/?ID=14
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SmartTV; Linux; Tizen 6.0)
+https://mhd128.iptv2022.com/p/XDKzI2hB1_kVocsvvp2T5w,1781117615/streaming/domashiyott/324/5/tracks-v5a1/mono.m3u8
 
 #EXTINF:-1 group-title="Федеральные", ТВ3
 #EXTVLCOPT:http-user-agent=TiviMate/2.8.0
-http://cdn.kubteltv.workers.dev/?ID=15
+https://bl.rutube.ru/livestream/7bf12d9c050f9a7ef3728db5730432ae/index.m3u8?s=_O6ZRJfK1k_4Vq15m0VHXg&e=2069285050&scheme=https
 
 #EXTINF:-1 group-title="Федеральные", Пятница!
 https://vod.tuva.ru/friday/index.m3u8
@@ -74,12 +74,12 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:-1,ТНТ
 #EXTGRP:Федеральные
 #EXTVLCOPT:http-user-agent=TiviMate/2.8.0
-http://cdn.kubteltv.workers.dev/?ID=19
+https://bl.rutube.ru/livestream/546602986e6a424d74d594876ddb3f04/index.m3u8?s=JTwJq1Qt3nhrVHiVIUvzgA&e=2069285049&scheme=https
 
 #EXTINF:-1,МУЗ-ТВ
 #EXTGRP:Федеральные
 #EXTVLCOPT:http-user-agent=TiviMate/2.8.0
-http://cdn.kubteltv.workers.dev/?ID=20
+https://bl.rutube.ru/livestream/df6fe73494a26f74da51573fd97b9baa/index.m3u8?s=On_-8-ES9PLCaKRlOkX_Mg&e=2066519852&scheme=https
 
 
 #EXTINF:-1 group-title="Новости", 360° Новости 
