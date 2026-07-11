@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://iptvx.one/epg/epg.xml.gz"
+#EXTM3U deinterlace=1 m3uautoload=1 url-tvg="https://iptvx.one/epg/epg.xml.gz" catchup="append" catchup-days="4" catchup-source="?offset=-${offset}&utcstart=${timestamp}"
 #PLAYLIST:GoodTV
 
 
