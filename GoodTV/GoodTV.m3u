@@ -113,9 +113,6 @@ http://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Tambov/hls/1280x720@2500/playlist
 #EXTINF:-1 group-title="Новости" tvg-id="krym24", Крым 24
 http://live24.1tvcrimea.ru/switcher.m3u8
 
-#EXTINF:-1 group-title="Новости" tvg-id="pervy-krymsky", Первый крымский
-http://live1.1tvcrimea.ru/1tvcrimea.m3u8
-
 #EXTINF:-1 tvg-id="cctv-ru" tvg-logo="https://iptvx.one/picons/cctv-ru.png" group-title="Новости" ,CGTN Русский 
 http://russian-livews.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd/playlist.m3u8
 
@@ -207,9 +204,6 @@ http://176.118.197.101/Komediya/index.m3u8
 #EXTINF:-1 group-title="Кино",Мир сериала
 http://46.32.176.50/mirseriala/index.m3u8
 
-#EXTINF:-1 group-title="Кино",Дом кино
-http://46.32.176.50/domkino/index.m3u8
-
 #EXTINF:-1,НСТ
 #EXTGRP:Кино
 #EXTVLCOPT:http-user-agent=TiviMate/2.8.0
@@ -261,9 +255,6 @@ http://iptv.mega.net.ru:8888/TV1000_Russkoe_kino/index.m3u8
 #EXTINF:-1 tvg-id="sony-turbo" tvg-logo="https://iptvx.one/picons/sony-turbo.png" group-title="Кино",.black
 http://158.101.222.193:88/georgia_play.php?id=black
 
-#EXTINF:-1 tvg-id="312-kino" tvg-logo="https://iptvx.one/picons/312-kino.png" group-title="Кино" ,312 Кино
-http://176.126.166.43:1935/live/312kino/playlist.m3u8
-
 #EXTINF:-1 tvg-id="amedia-premium" tvg-logo="https://iptvx.one/picons/amedia-premium.png" group-title="Кино" ,Amedia Premium 
 http://45.145.32.13:20440/amedia_premium_hd/index.m3u8?token=test
 
@@ -274,9 +265,6 @@ http://iptv.mega.net.ru:8888/Bollywood_HD/index.m3u8
 #EXTINF:-1 tvg-id="hollywood" tvg-logo="https://iptvx.one/picons/hollywood.png" group-title="Кино" ,Hollywood
 https://stream8.cinerama.uz/1443/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="kino-24" tvg-logo="https://iptvx.one/picons/kino-24.png" group-title="Кино",Kino 24
-http://sirius.greenhosting.ru/Kino24Ru/video.m3u8
-
 #EXTINF:-1 tvg-id="retro-tv" tvg-logo="https://iptvx.one/picons/retro-tv.png" group-title="Кино" ,Ретро
 http://176.118.197.101/Retro/index.m3u8
 
@@ -285,12 +273,6 @@ http://live.15plusmg.ru/memfs/b389173a-df4e-4171-8904-e249893e71eb.m3u8
 
 #EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png" group-title="Кино" ,Alpha Moretime
 http://live.15plusmg.ru/memfs/3546fc09-2eba-459d-9a1f-9a2fc39e50bd.m3u8
-
-#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://img.catcast.tv/uploads/04092021/logos/40672-61329195ca44d.jpg" group-title="Кино" ,LAV-KINO
-https://fl1004.bozztv.com/ushba32/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://iptvx.one/picons/pro100.png" group-title="Кино" ,Pro100
-https://sirius.greenhosting.ru/Pro100tvRu/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pBZQdVdM/image-30.png" tvg-id="" group-title="Кино", Шеф
 https://cdn-dvr.ntv.ru/Shef/tracks-v1a1/mono.ts.m3u8
