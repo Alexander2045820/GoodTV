@@ -456,6 +456,32 @@ http://shayan.bonus-tv.ru:80/cdn/shayan/tracks-v1a1/mono.m3u8
 #EXTVLCOPT:http-user-agent="WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer"
 http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/variant.m3u8
 
+#EXTINF:-1 group-title="Развлекательные",КВН ТВ
+http://158.101.222.193:88/georgia_play.php?id=kvntv
+
+#EXTINF:-1 group-title="Развлекательные",Телекафе
+http://46.32.176.50/telekafe/index.m3u8
+
+#EXTINF:-1 group-title="Развлекательные" tvg-logo="https://www.vokrug.tv/pic/product/1/4/3/0/1430c5945078c27be20b31bee0b94f14.jpg",Танец ТВ
+https://efirtanectv-hls.cdnvideo.ru/hls/61c641b176face0001223636/1080p.m3u8
+
+#EXTINF:-1 group-title="Развлекательные",Тео-ТВ
+#EXTVLCOPT:http-user-agent=SmartTV
+http://rt-mos-htlive.cdn.ngenix.net/hls/CH_R01_TEOTV/variant.m3u8
+
+#EXTINF:-1 group-title="Развлекательные",Univer TV
+#EXTVLCOPT:http-user-agent=shullers
+http://cdn.universmotri.ru/live/hq.sdp/chunklist.m3u8
+
+#EXTINF:-1 group-title="Развлекательные",1TV
+https://tv.cdn.xsg.ge/gpb-1tv/index.m3u8
+
+#EXTINF:-1 group-title="Развлекательные",Сарафан
+https://stream8.cinerama.uz/1249/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Развлекательные",Gags Network
+http://hls127.freeott.top:8080/Gagsnetwork/video.m3u8
+
 #EXTINF:-1 tvg-id="perec-int" tvg-logo="https://iptvx.one/picons/perec.png" group-title="Развлекательные" ,Перец
 http://158.101.222.193:88/georgia_play.php?id=perec
 
