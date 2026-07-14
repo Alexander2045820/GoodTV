@@ -407,12 +407,6 @@ http://5.188.159.128:8070/Cartoon_Network/index.m3u8
 #EXTINF:-1 tvg-id="ducktv" tvg-logo="https://iptvx.one/picons/ducktv.png" group-title="Детские",Duck TV
 https://stream8.cinerama.uz/1271/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="jimjam" tvg-logo="https://iptvx.one/picons/jimjam.png" group-title="Детские" ,JimJam
-http://158.160.149.81:8080/269/index.m3u8
-
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://school.radiokids.fm/wp-content/uploads/2019/08/Logo_main.png" group-title="Детские" ,RADIOKIDS.FM
-http://cqw2lystveu.a.trbcdn.net/livemaster/7ak8t_live-hv25n82a0l8.smil/playlist.m3u8
-
 #EXTINF:-1 tvg-id="tiji" tvg-logo="https://iptvx.one/picons/tiji.png" group-title="Детские" ,TiJi
 https://stream8.cinerama.uz/1441/tracks-v1a1/mono.m3u8
 
@@ -421,12 +415,6 @@ https://stream8.cinerama.uz/1406/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="mama" tvg-logo="https://iptvx.one/picons/mama.png" group-title="Детские" ,Мама
 http://46.32.176.50/mama/index.m3u8
-
-#EXTINF:-1 tvg-id="multimania-lv" tvg-logo="https://iptvx.one/picons/multimania-lv.png" group-title="Детские" ,Мультимания
-http://sirius.greenhosting.ru/MultimaniaRu/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="pingvin-lolo" tvg-logo="https://iptvx.one/picons/pingvin-lolo.png" group-title="Детские" ,Пингвин
-http://sirius.greenhosting.ru/PingvinRu/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="radost-moya" tvg-logo="https://iptvx.one/picons/radost-moya.png" group-title="Детские" ,Радость моя
 https://radm.mediacdn.ru/cdn/radost/playlist_sdhigh.m3u8
