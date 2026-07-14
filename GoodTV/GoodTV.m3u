@@ -469,10 +469,6 @@ https://efirtanectv-hls.cdnvideo.ru/hls/61c641b176face0001223636/1080p.m3u8
 #EXTVLCOPT:http-user-agent=SmartTV
 http://rt-mos-htlive.cdn.ngenix.net/hls/CH_R01_TEOTV/variant.m3u8
 
-#EXTINF:-1 group-title="Развлекательные",Univer TV
-#EXTVLCOPT:http-user-agent=shullers
-http://cdn.universmotri.ru/live/hq.sdp/chunklist.m3u8
-
 #EXTINF:-1 group-title="Развлекательные",1TV
 https://tv.cdn.xsg.ge/gpb-1tv/index.m3u8
 
@@ -551,27 +547,32 @@ http://iam-profi.ru/hls-live/livepkgr/_definst_/liveevent/td720.m3u8
 https://live-tolknews.cdnvideo.ru/tolknews/stream/playlist.m3u8
 
 
-#EXTINF:-1 group-title="Познавательные", 365 дней
-http://158.101.222.193:88/georgia_play.php?id=365day
+#EXTINF:-1 group-title="Познавательные",Travel+Adventure HD
+http://77.232.131.211/TravelAdventureHD/index.m3u8
 
-#EXTINF:-1 group-title="Познавательные", Доктор
-http://45.11.139.43:8555/doctor/index.m3u8
+#EXTINF:-1 group-title="Познавательные",viju Explore
+https://flussonic.mkpnet.ru/tv-7c57a4c3f9a896ea/video.m3u8
 
-#EXTINF:-1 group-title="Познавательные", Моя планета 
-#EXTVLCOPT:http-user-agent=TiviMate/2.8.0
-http://cdn.kubteltv.workers.dev/?ID=349
+#EXTINF:-1 group-title="Познавательные",viju History
+https://flussonic.mkpnet.ru/tv-687ba838ca927b9a/video.m3u8
 
-#EXTINF:-1 group-title="Познавательные", Неизвестная планета 
-http://stitch.teletarget.ru/api/v1/hls/vintera/neplaneta/index.m3u8
+#EXTINF:-1 group-title="Познавательные",viju Nature
+https://flussonic.mkpnet.ru/tv-7a85ea25208f5bf7/video.m3u8
 
-#EXTINF:-1 group-title="Познавательные", viju Nature
-http://158.101.222.193:88/georgia_play.php?id=viasatnat
+#EXTINF:-1 group-title="Познавательные",History HD
+http://46.32.176.50/HistoryHD/index.m3u8
 
-#EXTINF:-1 group-title="Познавательные", viju History
-http://158.101.222.193:88/georgia_play.php?id=viasathist
+#EXTINF:-1 group-title="Познавательные" tvg-id="terra-inkognita",Терра Инкогнита
+http://178.124.153.123:44400/terra
 
-#EXTINF:-1 group-title="Познавательные", viju Explore
-http://158.101.222.193:88/georgia_play.php?id=viasatexp
+#EXTINF:-1 group-title="Познавательные",Big Planet
+http://46.32.176.50/bigplanet/index.m3u8
+
+#EXTINF:-1 group-title="Познавательные",TLC
+http://46.32.176.50/tlc/index.m3u8
+
+#EXTINF:-1 group-title="Познавательные",Animal Planet HD
+http://46.32.176.50/AnimalPlanetHD/index.m3u8
 
 #EXTINF:-1 tvg-id="insight-tv-hd" tvg-logo="https://iptvx.one/picons/insight-tv-hd.png" group-title="Познавательные" ,Insight TV 
 https://stream8.cinerama.uz/1416/tracks-v1a1/mono.m3u8
@@ -581,6 +582,30 @@ https://stream8.cinerama.uz/1042/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="national-geographic" tvg-logo="https://iptvx.one/picons/national-geographic.png" group-title="Познавательные" ,National Geographic
 https://stream8.cinerama.uz/1041/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Познавательные",English Club TV
+https://dash2.antik.sk/live/test_ectv_hd_1200/playlist.m3u8
+
+#EXTINF:-1 group-title="Познавательные", 365 дней
+http://158.101.222.193:88/georgia_play.php?id=365day
+
+#EXTINF:-1 group-title="Познавательные", Доктор
+http://45.11.139.43:8555/doctor/index.m3u8
+
+#EXTINF:-1 group-title="Познавательные",Мужской
+https://flussonic.mkpnet.ru/tv-55c94e838b306657/video.m3u8
+
+#EXTINF:-1 group-title="Познавательные",Живи Активно
+https://flussonic.mkpnet.ru/tv-fa810958620d77d8/video.m3u8
+
+#EXTINF:-1 group-title="Познавательные",Загородная жизнь
+https://flussonic.mkpnet.ru/tv-a651b413f5cb4c44/video.m3u8
+
+#EXTINF:-1 group-title="Познавательные",Моя Планета
+https://flussonic.mkpnet.ru/tv-6febc5aecf84848d/video.m3u8
+
+#EXTINF:-1 group-title="Познавательные", Неизвестная планета 
+http://stitch.teletarget.ru/api/v1/hls/vintera/neplaneta/index.m3u8
 
 #EXTINF:-1 tvg-id="rtd-ru" tvg-logo="https://iptvx.one/picons/rt-doc.png" group-title="Познавательные" ,RTД 
 http://rt-doc.rttv.com/dvr/rtdru/rtdru1080.m3u8
@@ -596,6 +621,21 @@ http://46.32.176.50/istoriya/index.m3u8
 
 #EXTINF:-1 tvg-id="otkryty-mir" tvg-logo="https://iptvx.one/picons/otkryty-mir.png" group-title="Познавательные",Открытый мир
 http://v4.proofix.ru/0mir/index.m3u8
+
+#EXTINF:-1 group-title="Познавательные",Кухня ТВ
+http://46.32.176.50/kuxnyatv/index.m3u8
+
+#EXTINF:-1 group-title="Познавательные",Домашние Животные
+http://46.32.176.50/domashniejivotnie/index.m3u8
+
+#EXTINF:-1 group-title="Познавательные",Поехали!
+http://46.32.176.50/poexali/index.m3u8
+
+#EXTINF:-1 group-title="Познавательные",Точка ТВ
+https://flussonic.mkpnet.ru/tv-297099e2d5179304/video.m3u8
+
+#EXTINF:-1 group-title="Познавательные",Успех
+https://flussonic.mkpnet.ru/tv-324fe9acc597fbc1/video.m3u8
 
 #EXTINF:-1 tvg-id="eureka-hd" tvg-logo="https://iptvx.one/picons/kosmichesky.png" group-title="Познавательные" ,Первый космический
 https://stream8.cinerama.uz/1415/tracks-v1a1/mono.m3u8
@@ -615,8 +655,26 @@ https://stream8.cinerama.uz/1429/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="zhivaya-planeta" tvg-logo="https://iptvx.one/picons/zhivaya-planeta.png" group-title="Познавательные" ,Живая Планета
 https://stream8.cinerama.uz/1250/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 group-title="Познавательные",Зоо ТВ
+http://158.101.222.193:88/georgia_play.php?id=zoo
+
+#EXTINF:-1 group-title="Познавательные",Бобер
+http://46.32.176.50/bobertv/index.m3u8
+
 #EXTINF:-1 tvg-id="prosveschenie" tvg-logo="https://iptvx.one/picons/prosveschenie.png" group-title="Познавательные",Просвещение
 http://cdn-01.bonus-tv.ru/prosveschenie_edge/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Познавательные",Охотник и рыболов
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/1da5d92af8c55b16241f1eb12a27f00c/index.m3u8?s=fkQ736icvvu4TFmhGepF8w&e=2082240617&scheme=https
+
+#EXTINF:-1 group-title="Познавательные",Загородный International
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/406973c72e9d0449feef05ef7811ad01/index.m3u8?s=8BcqpKHAHMVW2uxKcC4Czg&e=2082240618&scheme=https
+
+#EXTINF:-1 group-title="Познавательные" tvg-logo="https://pic.rtbcdn.ru/user/ef/1e/ef1e6d84b7c04f92ed0ff02bd6668328.jpg",HHQ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/2d7fa51716500fba52586d594201777f/index.m3u8?s=tN-MT9VCaOMFBZloRSo0uA&e=2082240619&scheme=https
 
 
 #EXTINF:-1 tvg-id="soyuz" tvg-logo="https://iptvx.one/picons/soyuz.png" group-title="Религиозные" ,Союз 
