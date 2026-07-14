@@ -392,17 +392,49 @@ https://cdn-dvr.ntv.ru/svoya_igra/tracks-v1a1/rewind-240.ts.m3u8
 https://cdn-dvr.ntv.ru/Super/tracks-v1a1/rewind-240.ts.m3u8
 
 
+#EXTINF:-1 group-title="Детские",Смайлик ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/2f052691c75d72b3ed7f3c33ea956a41/index.m3u8?s=6ClHlirJtr9HX0JRG2-94Q&e=2078482427&scheme=https
+
+#EXTINF:-1 group-title="Детские",Ключайка
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/ed497bdb28846536f3928849f8f7e469/index.m3u8?s=NjU84wfhYv2PbGWprX0Agg&e=2078482429&scheme=https
+
 #EXTINF:-1 tvg-id="solnce" tvg-logo="https://iptvx.one/picons/solnce.png" group-title="Детские" ,Солнце
 http://tv.mediacdn.ru/live/solntse/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ryzhy" tvg-logo="https://iptvx.one/picons/ryzhy.png" group-title="Детские" ,Рыжий
 https://stream8.cinerama.uz/1407/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 group-title="Детские",Мульт 
+http://46.32.176.50/MultHD/index.m3u8
+
+#EXTINF:-1 group-title="Детские",Gulli Girl
+https://flussonic.mkpnet.ru/tv-d66fcf59f2f4c966/video.m3u8
+
 #EXTINF:-1 tvg-id="cartoon-network" tvg-logo="https://iptvx.one/picons/cartoon-network.png" group-title="Детские" ,Cartoon Network
 http://176.118.197.101/Cartoon_Network/index.m3u8
 
 #EXTINF:-1 tvg-id="cartoon-classics" tvg-logo="https://iptvx.one/picons/cartoon-classics.png" group-title="Детские" ,Cartoon Classics
 http://5.188.159.128:8070/Cartoon_Network/index.m3u8
+
+#EXTINF:-1 group-title="Детские",Малыш
+https://flussonic.mkpnet.ru/tv-66968914d630446e/video.m3u8
+
+#EXTINF:-1 group-title="Детские",Уникум
+https://stream8.cinerama.uz/1033/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Детские" tvg-logo="https://i.postimg.cc/RCgvJhdQ/image.png",СоюзМультфильм
+http://194.26.229.213/souzmultfilm/index.m3u8
+
+#EXTINF:-1 group-title="Детские" tvg-logo="https://i.postimg.cc/BvqS8HVV/1.png",Чип и Дейл
+http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
+
+#EXTINF:-1 group-title="Детские",Детский мир
+http://158.101.222.193:88/georgia_play.php?id=detskymir
+
+#EXTINF:-1 group-title="Детские",В гостях у сказки
+https://stream8.cinerama.uz/1270/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="ducktv" tvg-logo="https://iptvx.one/picons/ducktv.png" group-title="Детские",Duck TV
 https://stream8.cinerama.uz/1271/tracks-v1a1/mono.m3u8
