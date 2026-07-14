@@ -403,9 +403,6 @@ https://bl.rutube.ru/livestream/ed497bdb28846536f3928849f8f7e469/index.m3u8?s=Nj
 #EXTINF:-1 tvg-id="solnce" tvg-logo="https://iptvx.one/picons/solnce.png" group-title="Детские" ,Солнце
 http://tv.mediacdn.ru/live/solntse/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ryzhy" tvg-logo="https://iptvx.one/picons/ryzhy.png" group-title="Детские" ,Рыжий
-https://stream8.cinerama.uz/1407/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 group-title="Детские",Мульт 
 http://46.32.176.50/MultHD/index.m3u8
 
