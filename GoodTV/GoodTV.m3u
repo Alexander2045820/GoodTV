@@ -1,4 +1,4 @@
-#EXTM3U deinterlace=1 m3uautoload=1 url-tvg="https://iptvx.one/epg/epg.xml.gz" catchup="append" catchup-days="4" catchup-source="?offset=-${offset}&utcstart=${timestamp}"
+#EXTM3U url-tvg="https://iptvx.one/epg/epg.xml.gz"
 #PLAYLIST:GoodTV
 
 
@@ -81,6 +81,22 @@ https://bl.rutube.ru/livestream/546602986e6a424d74d594876ddb3f04/index.m3u8?s=JT
 #EXTVLCOPT:http-user-agent=TiviMate/2.8.0
 https://bl.rutube.ru/livestream/df6fe73494a26f74da51573fd97b9baa/index.m3u8?s=On_-8-ES9PLCaKRlOkX_Mg&e=2066519852&scheme=https
 
+
+#EXTINF:-1 group-title="Новости" tvg-id="moskva-24",Москва 24
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_MOSKOV24/variant.m3u8
+
+#EXTINF:-1 group-title="Новости" tvg-id="lot-47",Лен ТВ 24
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R02_LENTVSD/variant.m3u8
+
+#EXTINF:-1 group-title="Новости" tvg-id="doverie",Москва. Доверие
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_DOVERIE/variant.m3u8
+
+#EXTINF:-1 group-title="Новости" tvg-id="sankt-peterburg",Санкт-Петербург
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R02_SPBREGIONALHD/variant.m3u8
 
 #EXTINF:-1 group-title="Новости", 360° Новости 
 http://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/tracks-v5a1/mono.m3u8
@@ -187,6 +203,12 @@ http://46.32.176.50/russkiydetektiv/index.m3u8
 #EXTGRP:Кино
 #EXTVLCOPT:http-user-agent=TiviMate/2.8.0
 http://176.118.197.101/Komediya/index.m3u8
+
+#EXTINF:-1 group-title="Кино",Мир сериала
+http://46.32.176.50/mirseriala/index.m3u8
+
+#EXTINF:-1 group-title="Кино",Дом кино
+http://46.32.176.50/domkino/index.m3u8
 
 #EXTINF:-1,НСТ
 #EXTGRP:Кино
