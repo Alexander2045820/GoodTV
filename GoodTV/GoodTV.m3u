@@ -838,6 +838,87 @@ http://live-3.otcnet.ru/sportivny/tracks-v1a1/mono.ts.m3u8
 
 
 
+#EXTINF:-1 group-title="Музыкальные",Жара
+https://flussonic.mkpnet.ru/tv-3cdc33d3606ba23f/video.m3u8
+
+#EXTINF:-1 group-title="Музыкальные",RU.TV
+https://flussonic.mkpnet.ru/tv-64b2c4ff13365817/video.m3u8
+
+#EXTINF:-1 group-title="Музыкальные",Bridge TV
+https://flussonic.mkpnet.ru/tv-ceaa6aa3cc1ea359/video.m3u8
+
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://iptvx.one/picons/bridge-tv-ruxit.png" tvg-id="bridge-tv-ruxit",Bridge Русский хит
+http://193.25.8.59:8000/rusong
+
+#EXTINF:-1 group-title="Музыкальные",1HD
+http://176.118.197.101/1HD/index.m3u8
+
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="http://i114.fastpic.ru/big/2021/0209/e3/411906b8ef8f41c95f5ead2c793a02e3.png",Kronehit HD
+#EXTVLCOPT:http-user-agent=slluler
+https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
+
+#EXTINF:-1 group-title="Музыкальные",Курай
+http://bsttv.bonus-tv.ru/cdn/kurai/playlist.m3u8
+
+#EXTINF:-1 group-title="Музыкальные",Страна FM
+https://live-stranafm.cdnvideo.ru/stranafm/smil:stranafm.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="Музыкальные",Майдан (Казань)
+#EXTVLCOPT:http-user-agent=slluler
+http://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R05_OTT_VLG_KZN_MAIDAN/variant.m3u8?version2
+
+#EXTINF:-1 group-title="Музыкальные",Матур ТВ
+#EXTVLCOPT:http-user-agent=slluler
+https://s45177.cdn.ngenix.net/hls/CH_R02_MATURTV/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Музыкальные",TVM 3
+https://edge15.vedge.infomaniak.com/livecast/tvm3/chunklist_w678388921.m3u8
+
+#EXTINF:-1 group-title="Музыкальные",Deejay TV
+https://streamcdnm4-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/playlist.m3u8
+
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Purple125/v4/4a/d1/92/4ad1928c-6e40-9506-df33-b37ad8343752/source/512x512bb.jpg" tvg-id="no_epg_music",radio m2o
+http://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/chunklist_b1728000.m3u8
+
+#EXTINF:-1 group-title="Музыкальные",Ля-Минор
+https://stream8.cinerama.uz/1238/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Музыкальные",ММТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/965a025e4ebbaf0957415f80c6de8534/index.m3u8?s=HGBzU8Zgj6rt1l9lyQmgNQ&e=2078482434&scheme=https
+
+#EXTINF:-1 group-title="Музыкальные",Now Rock
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/047ba54d846ee185b4209a797a2ae138/index.m3u8?s=xtHmd4BMShxsCi7TIdWkZg&e=2078482434&scheme=https
+
+#EXTINF:-1 group-title="Музыкальные",Супердискотека 90х
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/351f0e84a7db69a73658bbf61debcf62/index.m3u8?s=jAOD7y9AgZtXPDPAbIwRLw&e=2078482435&scheme=https
+
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://iptvx.one/picons/retro-music-cz.png" tvg-id="retro-music-cz",Retro Music
+http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
+
+
+#EXTINF:-1 group-title="Музыкальные",RU.TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/b1eb8e90d7e636677b3eb73b4fcbb717/index.m3u8?s=9ScEdaNJpsOIs7T3A0ScyA&e=2082240642&scheme=https
+
+#EXTINF:-1 group-title="Музыкальные",MIXM TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/88eba514854a55d87a4b66b66b1977e7/index.m3u8?s=V7zpZKJjKbbAkD1i4CYfkg&e=2082240642&scheme=https
+
+#EXTINF:-1 group-title="Музыкальные",ММТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/965a025e4ebbaf0957415f80c6de8534/index.m3u8?s=NjKwpfCqyanh_iQdbpJDUw&e=2082240643&scheme=https
+
+#EXTINF:-1 group-title="Музыкальные",Now Rock
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/047ba54d846ee185b4209a797a2ae138/index.m3u8?s=3WHGGtVo7aaUWpdHdcnXvA&e=2082240643&scheme=https
+
+#EXTINF:-1 group-title="Музыкальные",Phonk
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/f972da70f03eee3d14fcff4113a8b6e4/index.m3u8?s=Z5_MOOXcAJNM2JWWJBYw6w&e=2082240646&scheme=https
+
 #EXTINF:-1 group-title="Музыкальные", Mezzo
 http://158.101.222.193:88/georgia_play.php?id=mezzo
 
