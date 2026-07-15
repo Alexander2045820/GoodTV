@@ -768,20 +768,17 @@ http://46.32.176.50/eurosport2/index.m3u8
 #EXTINF:-1 group-title="Спортивные" tvg-logo="https://iptvx.one/picons/setanta1-ge.png" tvg-id="setanta1-ge",Setanta Sports 1 Georgia
 http://158.101.222.193:88/georgia_play.php?id=setanta_georgia
 
+#EXTINF:-1 group-title="Спортивные",Setanta Sports 2 Georgia
+http://158.101.222.193:88/georgia_play.php?id=setanta_sports_plus_georgia
+
 #EXTINF:-1 group-title="Спортивные",Megogo Sport
 http://5.188.159.128:8070/megogo_sport/index.m3u8
 
 #EXTINF:-1 group-title="Спортивные" tvg-id="eleven-sports-1",Eleven Sports 1 HD [PL]
 https://kusnadipepenk.github.io/ntn/ele1.m3u8
 
-#EXTINF:-1 group-title="Спортивные",Inter TV
-https://ilglobotv-live.akamaized.net/channels/InterTV/Live.m3u8
-
 #EXTINF:-1 group-title="Спортивные",1TV Sport
 https://tv.cdn.xsg.ge/gpb-2tv/tracks-v1a1/mono.ts.m3u8
-
-#EXTINF:-1 group-title="Спортивные",Setanta Sports 2 Georgia
-http://158.101.222.193:88/georgia_play.php?id=setanta_sports_plus_georgia
 
 #EXTINF:-1 group-title="Спортивные",NHL Network [US]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
@@ -791,114 +788,18 @@ https://bl.rutube.ru/livestream/7a485ef5da9fe50ba939f36ca3e6ed96/index.m3u8?s=nQ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://bl.rutube.ru/livestream/d01241e9fd2bc2d65dbf6d74cca02f89/index.m3u8?s=KEqvHsiFtrPDTG-MAa2o-Q&e=2082240650&scheme=https
 
+#EXTINF:-1 group-title="Спортивные",Viasat Sport
+http://tinyurl.com/TvZaTak65?id=viasatsport
+
+#EXTINF:-1 group-title="Спортивные" tvg-logo="https://i.pinimg.com/originals/7f/34/90/7f3490c411796ccb81b51a28d4f8f378.jpg" tvg-id="no_epg_sport",Real Madrid TV
+https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/master.m3u8
+
 #EXTINF:-1 group-title="Спортивные",Волейбол
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://bl.rutube.ru/livestream/cc1b56aa4955a144f324ad58998513bb/index.m3u8?s=CP_jU9o0JaR8rWl3yMUiPA&e=2082240651&scheme=https
 
-#EXTINF:-1 group-title="Спортивные",Viasat Sport
-http://tinyurl.com/TvZaTak65?id=viasatsport
-
 #EXTINF:-1 group-title="Спортивные",Бокс ТВ
 http://tinyurl.com/TvZaTak65?id=boxtv
-
-#EXTINF:-1 group-title="Спортивные",Матч! Планета
-http://tinyurl.com/TvZaTak65?id=matchplaneta
-
-#EXTINF:-1 group-title="Спортивные",Футбол
-http://hls127.freeott.top:8080/Football/video.m3u8
-
-#EXTINF:-1 group-title="Спортивные",Матч! Игра
-http://46.32.176.50/matchiqra/index.m3u8
-
-#EXTINF:-1 group-title="Спортивные",Матч! Арена
-http://46.32.176.50/MatchArenaHD/index.m3u8
-
-#EXTINF:-1 group-title="Спортивные",Матч! Боец
-http://46.32.176.50/boets/index.m3u8
-
-#EXTINF:-1 group-title="Спортивные",Viasat Sport
-http://46.32.176.50/viasatsport/index.m3u8
-
-#EXTINF:-1 group-title="Спортивные",КХЛ
-http://46.32.176.50/kxltv/index.m3u8
-
-#EXTINF:-1 group-title="Спортивные",MMA-TV.COM
-http://tv.ttk.mx:9196
-
-#EXTINF:-1 group-title="Спортивные",Viasat Sport
-http://tv.ttk.mx:9187
-
-#EXTINF:-1 group-title="Спортивные",Матч Премьер
-http://tv.ttk.mx:10000
-
-#EXTINF:-1 group-title="Спортивные",Матч! Арена
-http://tv.ttk.mx:9153
-
-#EXTINF:-1 group-title="Спортивные",Матч! Страна
-http://tv.ttk.mx:9154
-
-#EXTINF:-1 group-title="Спортивные",Матч! Игра
-http://tv.ttk.mx:9152
-
-#EXTINF:-1 group-title="Спортивные",МАТЧ! БОЕЦ
-http://tv.ttk.mx:9107
-
-#EXTINF:-1 group-title="Спортивные",МАТЧ! ФУТБОЛ 1 HD
-http://tv.ttk.mx:9114
-
-#EXTINF:-1 group-title="Спортивные",Матч! футбол 1
-http://tv.ttk.mx:9108
-
-#EXTINF:-1 group-title="Спортивные",МАТЧ! ФУТБОЛ 2 HD
-http://tv.ttk.mx:9111
-
-#EXTINF:-1 group-title="Спортивные",Матч! Футбол 3
-http://tv.ttk.mx:9112
-
-#EXTINF:-1 group-title="Спортивные",МАТЧ! ФУТБОЛ 3 HD
-http://tv.ttk.mx:9116
-
-#EXTINF:-1 group-title="Спортивные",MMA-TV.COM
-http://45.145.32.13:20440/mmatv/index.m3u8?token=test
-
-#EXTINF:-1 group-title="Спортивные",Матч! Арена
-http://45.145.32.13:20440/match_arena/index.m3u8?token=test
-
-#EXTINF:-1 group-title="Спортивные",Матч! Арена HD
-http://45.145.32.13:20440/match_arena_hd/index.m3u8?token=test
-
-#EXTINF:-1 group-title="Спортивные",Матч! Боец
-http://45.145.32.13:20440/match_boets/index.m3u8?token=test
-
-#EXTINF:-1 group-title="Спортивные",Матч! Игра
-http://45.145.32.13:20440/match_igra/index.m3u8?token=test
-
-#EXTINF:-1 group-title="Спортивные",Матч! Игра HD
-http://45.145.32.13:20440/match_igra_hd/index.m3u8?token=test
-
-#EXTINF:-1 group-title="Спортивные",Матч! Страна
-http://45.145.32.13:20440/match_strana/index.m3u8?token=test
-
-#EXTINF:-1 group-title="Спортивные",Матч! Футбол 1
-http://45.145.32.13:20440/match_football1/index.m3u8?token=test
-
-#EXTINF:-1 group-title="Спортивные",Матч! Футбол 1 HD
-http://45.145.32.13:20440/match_futbol_1_hd/index.m3u8?token=test
-
-#EXTINF:-1 group-title="Спортивные",Матч! Футбол 2
-http://45.145.32.13:20440/match_football2/index.m3u8?token=test
-
-#EXTINF:-1 group-title="Спортивные",Матч! Футбол 2 HD
-http://45.145.32.13:20440/match_futbol_2_hd/index.m3u8?token=test
-
-#EXTINF:-1 group-title="Спортивные",Матч! Футбол 3
-http://45.145.32.13:20440/match_football3/index.m3u8?token=test
-
-#EXTINF:-1 group-title="Спортивные",Матч! Футбол 3 HD
-http://45.145.32.13:20440/match_futbol_3_hd/index.m3u8?token=test
-
-#EXTINF:-1 group-title="Спортивные",Мир баскетбола
-http://45.145.32.13:20440/mir_basketbola/index.m3u8?token=test
 
 #EXTINF:-1 group-title="Спортивные",Матч! Премьер
 https://flussonic.mkpnet.ru/tv-ee3651e1e7ce5cbf/video.m3u8
@@ -912,103 +813,14 @@ https://flussonic.mkpnet.ru/tv-1bfac9df3d938c1f/video.m3u8
 #EXTINF:-1 group-title="Спортивные",Матч! Страна
 https://flussonic.mkpnet.ru/tv-6db4f59c21aec361/video.m3u8
 
-#EXTINF:-1 group-title="Спортивные",Волейбол
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/cc1b56aa4955a144f324ad58998513bb/index.m3u8?s=CTT0N-sNPv9QDI3pO0q37w&e=2078148346&scheme=https
+#EXTINF:-1 group-title="Спортивные",Матч! Планета
+http://tinyurl.com/TvZaTak65?id=matchplaneta
+
+#EXTINF:-1 group-title="Спортивные",Матч! Боец
+http://46.32.176.50/boets/index.m3u8
 
 #EXTINF:-1 group-title="Спортивные",KHL
 https://flussonic.mkpnet.ru/tv-e3d23fc7511b5fcd/video.m3u8
-
-#EXTINF:-1 group-title="Спортивные",Матч! Футбол 1
-http://193.25.8.59:8000/fut
-
-#EXTINF:-1 group-title="Спортивные" tvg-logo="https://lighticons.art/storage/images/channels/94de502ffcf196ab78801841206c642d.png?d=1709804063" tvg-id="Матч! Футбол 1 HD",Матч! Футбол 1 HD
-http://31.148.48.15/Match_Futbol_1_HD/index.m3u8
-
-#EXTINF:-1 group-title="Спортивные" tvg-logo="https://lighticons.art/storage/images/channels/82173d67718d9564d91739037224daee.png?d=1709804175" tvg-id="Матч! Футбол 2 HD",Матч! Футбол 2 HD
-http://31.148.48.15/Match_Futbol_2_HD/index.m3u8
-
-#EXTINF:-1 group-title="Спортивные",Матч! Футбол 3
-http://193.25.8.59:8000/fut3
-
-#EXTINF:-1 group-title="Спортивные",МАТЧ! Футбол 3
-http://185.57.68.33/110/mpegts
-
-#EXTINF:-1 group-title="Спортивные" tvg-logo="https://lighticons.art/storage/images/channels/3ba8a8b28a85f4c30ba63ca4dd81f83d.png?d=1679724905" tvg-id="Матч! Футбол 3 HD",Матч! Футбол 3 HD
-http://31.148.48.15/Match_Futbol_3_HD/index.m3u8
-
-#EXTINF:-1 group-title="Спортивные",Волейбол
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/cc1b56aa4955a144f324ad58998513bb/index.m3u8?s=RDr9cVpwPN3h4pIHSU6BCA&e=2078482447&scheme=https
-
-#EXTINF:-1 group-title="Спортивные",KHL
-http://176.118.197.101/KHL/index.m3u8
-
-#EXTINF:-1 group-title="Спортивные",Setanta Sports 1 HD
-https://stream8.cinerama.uz/1263/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="Спортивные",Setanta Sports 2 HD
-https://stream8.cinerama.uz/1264/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="Спортивные",Viasat Sport
-https://stream8.cinerama.uz/1229/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="Спортивные",КХЛ
-https://stream8.cinerama.uz/1422/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="Спортивные",Матч! Футбол 2
-http://193.25.8.59:8000/fut2
-
-#EXTINF:-1 group-title="Спортивные",KHL HD
-http://193.25.8.59:8000/khl
-
-#EXTINF:-1 group-title="Спортивные",Матч! Арена
-http://193.25.8.59:8000/sport1
-
-#EXTINF:-1 group-title="Спортивные",Viasat Sport
-http://193.25.8.59:8000/viasatsport
-
-#EXTINF:-1 group-title="Спортивные",МАТЧ! Страна HD
-http://31.148.48.15/Match_Strana/index.m3u8
-
-#EXTINF:-1 group-title="Спортивные" tvg-logo="https://i.pinimg.com/originals/7f/34/90/7f3490c411796ccb81b51a28d4f8f378.jpg" tvg-id="no_epg_sport",Real Madrid TV
-https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/master.m3u8
-
-#EXTINF:-1 group-title="Спортивные" tvg-id="football-ru",Футбол
-http://31.148.48.15/Futbol_HD/index.m3u8
-
-#EXTINF:-1 group-title="Спортивные",Футбол
-http://tv.ttk.mx:9065
-
-#EXTINF:-1 group-title="Спортивные",Viasat Sport
-http://158.101.222.193:88/georgia_play.php?id=viasatsport
-
-#EXTINF:-1 group-title="Спортивные",Матч! Планета
-http://158.101.222.193:88/georgia_play.php?id=matchplaneta
-
-#EXTINF:-1 group-title="Спортивные",Бокс ТВ
-http://158.101.222.193:88/georgia_play.php?id=boxtv
-
-#EXTINF:-1 group-title="Спортивные",KHL Prime
-http://45.145.32.13:20440/khl_prime/index.m3u8?token=test
-
-#EXTINF:-1 group-title="Спортивные",Матч! Футбол 1
-http://37.186.70.39:40/play/81/index.m3u8
-
-#EXTINF:-1 group-title="Спортивные",Матч! Футбол 2
-http://37.186.70.39:40/play/82/index.m3u8
-
-#EXTINF:-1 group-title="Спортивные",Матч! Футбол 3
-http://37.186.70.39:40/play/92/index.m3u8
-
-#EXTINF:-1 group-title="Спортивные",Матч! Планета
-http://37.186.70.39:40/play/83/index.m3u8
-
-#EXTINF:-1 group-title="Спортивные",КХЛ
-http://37.186.70.39:40/play/114/index.m3u8
-
-#EXTINF:-1 group-title="Спортивные",БОКС ТВ
-http://37.186.70.39:40/play/85/index.m3u8
 
 #EXTINF:-1 tvg-id="start" tvg-logo="https://iptvx.one/picons/start.png" group-title="Спортивные" ,Старт
 https://bl.webcaster.pro/media/playlist/api_free_fd14ed34164a52d1090e4cb9db93683f/4_79276517/480p/d33bbf3e6ac7c41524eae5d1c3d9258d/4873167902.m3u8?live=15&ref=https://tvstart.ru/channels/tv-start/
