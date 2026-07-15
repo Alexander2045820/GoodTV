@@ -768,28 +768,14 @@ http://46.32.176.50/eurosport2/index.m3u8
 #EXTINF:-1 group-title="Спортивные" tvg-logo="https://iptvx.one/picons/setanta1-ge.png" tvg-id="setanta1-ge",Setanta Sports 1 Georgia
 http://158.101.222.193:88/georgia_play.php?id=setanta_georgia
 
-#EXTINF:-1 group-title="Спортивные",Sports Grid
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/afc3073ec3efc6cb70c88ce6acaf4344/index.m3u8?s=Dd51Nk7TqrkwPVbDMS3Dsw&e=2078482446&scheme=https
-
 #EXTINF:-1 group-title="Спортивные",Megogo Sport
 http://5.188.159.128:8070/megogo_sport/index.m3u8
 
 #EXTINF:-1 group-title="Спортивные" tvg-id="eleven-sports-1",Eleven Sports 1 HD [PL]
 https://kusnadipepenk.github.io/ntn/ele1.m3u8
 
-#EXTINF:-1 group-title="Спортивные",Primocanale Sport
-https://msh0203.stream.seeweb.it/live/flv:stream2.sdp/playlist.m3u8
-
-#EXTINF:-1 group-title="Спортивные",Red Booll HD
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8?denmstv.m3u8
-
 #EXTINF:-1 group-title="Спортивные",Inter TV
 https://ilglobotv-live.akamaized.net/channels/InterTV/Live.m3u8
-
-#EXTINF:-1 group-title="Спортивные",Unbeaten
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/efc2833169ec20a3ea61197714bea6ab/index.m3u8?s=D83Eb0rQwTUVfDB2gK-PMg&e=2078482447&scheme=https
 
 #EXTINF:-1 group-title="Спортивные" tvg-logo="https://i.imgur.com/R1hGX1d.png",KTV Sport
 https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist.m3u8
@@ -810,41 +796,13 @@ http://158.101.222.193:88/georgia_play.php?id=setanta_sports_plus_georgia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://bl.rutube.ru/livestream/7a485ef5da9fe50ba939f36ca3e6ed96/index.m3u8?s=nQp2zYvW4Q0xNaA1bCAq6Q&e=2082240649&scheme=https
 
-#EXTINF:-1 group-title="Спортивные",TNT SPORTS 1 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/3aa782bace452e7c4b9f81d767512147/index.m3u8?s=7SgLUOkvpOKx-kduNqAyyw&e=2082240649&scheme=https
-
-#EXTINF:-1 group-title="Спортивные",Sky Sports Golf
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/a7a17d6b994f02a80aebd69435266b58/index.m3u8?s=vHGG-oJHE1N1-UKw51Fb3w&e=2082240650&scheme=https
-
 #EXTINF:-1 group-title="Спортивные",NBA TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://bl.rutube.ru/livestream/d01241e9fd2bc2d65dbf6d74cca02f89/index.m3u8?s=KEqvHsiFtrPDTG-MAa2o-Q&e=2082240650&scheme=https
 
-#EXTINF:-1 group-title="Спортивные",Sky Sports Premier League
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/e5bacac3b8e730791d4cab20ae81cd8f/index.m3u8?s=OVDmlknJ-gY3OPeOEnGAJw&e=2082240650&scheme=https
-
-#EXTINF:-1 group-title="Спортивные",Sports Grid
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/afc3073ec3efc6cb70c88ce6acaf4344/index.m3u8?s=-XU_P6gm2azWMWhkzmsHxg&e=2082240650&scheme=https
-
-#EXTINF:-1 group-title="Спортивные",TVS Classic Sports
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/9f28acb802549828d3ce7fbd8ecc17d3/index.m3u8?s=dVG9t03dN1DE1fOTH-b6IQ&e=2082240651&scheme=https
-
-#EXTINF:-1 group-title="Спортивные",beIN SPORTS XTRA Español
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/05550e441b09aeec53e60de66b6c47bf/index.m3u8?s=ITn6czdTeS_9JcylEuhdNA&e=2082240651&scheme=https
-
 #EXTINF:-1 group-title="Спортивные",Волейбол
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://bl.rutube.ru/livestream/cc1b56aa4955a144f324ad58998513bb/index.m3u8?s=CP_jU9o0JaR8rWl3yMUiPA&e=2082240651&scheme=https
-
-#EXTINF:-1 group-title="Спортивные",Unbeaten
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/efc2833169ec20a3ea61197714bea6ab/index.m3u8?s=TwGycGFjnzW88RFt52ObgQ&e=2082240651&scheme=https
 
 #EXTINF:-1 group-title="Спортивные",Viasat Sport
 http://tinyurl.com/TvZaTak65?id=viasatsport
@@ -857,9 +815,6 @@ http://tinyurl.com/TvZaTak65?id=matchplaneta
 
 #EXTINF:-1 group-title="Спортивные",Футбол
 http://hls127.freeott.top:8080/Football/video.m3u8
-
-#EXTINF:-1 group-title="Спортивные",Fast Sport
-http://37.186.70.39:40/play/80/index.m3u8
 
 #EXTINF:-1 group-title="Спортивные",Матч! Игра
 http://46.32.176.50/matchiqra/index.m3u8
@@ -998,14 +953,8 @@ https://bl.rutube.ru/livestream/cc1b56aa4955a144f324ad58998513bb/index.m3u8?s=RD
 #EXTINF:-1 group-title="Спортивные",KHL
 http://176.118.197.101/KHL/index.m3u8
 
-#EXTINF:-1 group-title="Спортивные",Uzreport HD
-https://stream8.cinerama.uz/1015/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 group-title="Спортивные",Setanta Sports 1 HD
 https://stream8.cinerama.uz/1263/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="Спортивные",UzSport
-https://stream8.cinerama.uz/1004/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Спортивные",Setanta Sports 2 HD
 https://stream8.cinerama.uz/1264/tracks-v1a1/mono.m3u8
@@ -1019,9 +968,6 @@ https://stream8.cinerama.uz/1422/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спортивные",Матч! Футбол 2
 http://193.25.8.59:8000/fut2
 
-#EXTINF:-1 group-title="Спортивные",Turkmen Sport
-http://217.174.225.146/hls/ch004_720/index.m3u8
-
 #EXTINF:-1 group-title="Спортивные",KHL HD
 http://193.25.8.59:8000/khl
 
@@ -1030,12 +976,6 @@ http://193.25.8.59:8000/sport1
 
 #EXTINF:-1 group-title="Спортивные",Viasat Sport
 http://193.25.8.59:8000/viasatsport
-
-#EXTINF:-1 group-title="Спортивные",Беларусь 5
-https://ngtrk.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
-
-#EXTINF:-1 group-title="Спортивные" tvg-logo="http://epg.one/img2/7540.png" tvg-id="7540",ViP Sport 2
-http://eqatmiyg.megogo.xyz/iptv/54KGS8CCN6BZGC/20103/index.m3u8
 
 #EXTINF:-1 group-title="Спортивные",МАТЧ! Страна HD
 http://31.148.48.15/Match_Strana/index.m3u8
