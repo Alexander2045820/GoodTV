@@ -738,33 +738,6 @@ http://tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/tracks-v1a1/mono.m3u8?hls_proxy_h
 https://hls.tv.3angels.ru/stream.m3u8
 
 
-
-#EXTINF:-1 group-title="Спортивные", Матч! Планета
-http://158.101.222.193:88/georgia_play.php?id=matchplaneta
-
-#EXTINF:-1,Матч! Страна
-#EXTGRP:Спортивные
-#EXTVLCOPT:http-user-agent=TiviMate/2.8.0
-http://cdn.kubteltv.workers.dev/?ID=110
-
-#EXTINF:-1,Матч! Игра
-#EXTGRP:Спортивные
-#EXTVLCOPT:http-user-agent=TiviMate/2.8.0
-http://cdn.kubteltv.workers.dev/?ID=111
-
-#EXTINF:-1,Матч! Арена
-#EXTGRP:Спортивные
-#EXTVLCOPT:http-user-agent=TiviMate/2.8.0
-http://cdn.kubteltv.workers.dev/?ID=113
-
-#EXTINF:-1,Матч! Боец
-#EXTGRP:Спортивные
-#EXTVLCOPT:http-user-agent=TiviMate/2.8.0
-http://cdn.kubteltv.workers.dev/?ID=112
-
-#EXTINF:-1 group-title="Спортивные", viju+ Sport
-http://158.101.222.193:88/georgia_play.php?id=viasatsport
-
 #EXTINF:-1 tvg-id="eurosport2" tvg-logo="https://iptvx.one/picons/eurosport2.png" group-title="Спортивные" ,Eurosport 2
 http://46.32.176.50/eurosport2/index.m3u8
 
@@ -781,26 +754,6 @@ https://bl.webcaster.pro/media/playlist/free_672d700f2f9510be660253786e4406fe_hd
 http://live-3.otcnet.ru/sportivny/tracks-v1a1/mono.ts.m3u8
 
 
-#EXTINF:-1,Bridge TV Hits
-#EXTGRP:Музыкальные
-#EXTVLCOPT:http-user-agent=TiviMate/2.8.0
-http://cdn.kubteltv.workers.dev/?ID=64
-
-#EXTINF:-1,Bridge TV
-#EXTGRP:Музыкальные
-#EXTVLCOPT:http-user-agent=TiviMate/2.8.0
-http://cdn.kubteltv.workers.dev/?ID=67
-
-#EXTINF:-1,Bridge TV Русский Хит
-#EXTGRP:Музыкальные
-#EXTVLCOPT:http-user-agent=TiviMate/2.8.0
-http://cdn.kubteltv.workers.dev/?ID=69
-
-#EXTINF:-1,Bridge TV Classic
-#EXTGRP:Музыкальные
-#EXTVLCOPT:http-user-agent=TiviMate/2.8.0
-http://cdn.kubteltv.workers.dev/?ID=92
-
 #EXTINF:-1 group-title="Музыкальные", Mezzo
 http://158.101.222.193:88/georgia_play.php?id=mezzo
 
@@ -809,9 +762,6 @@ http://dancehits80.denvs.ru:8080/index.m3u8
 
 #EXTINF:-1 tvg-id="tnt-music" tvg-logo="https://iptvx.one/picons/tnt-music.png" group-title="Музыкальные" ,FON music
 https://cdn-01.bonus-tv.ru/tntmusic/playlist.m3u8
-
-#EXTINF:-1 tvg-id="retro-music-cz" tvg-logo="https://iptvx.one/picons/retro-music-cz.png" group-title="Музыкальные" ,Retro Music
-http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="vostok-tv" tvg-logo="https://iptvx.one/picons/vostok-tv.png" group-title="Музыкальные" ,Восток ТВ
 http://911play.ru:3456/live/VostokSite/cdnVostaoc911tv123456/489.m3u8
