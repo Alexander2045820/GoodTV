@@ -1014,9 +1014,6 @@ http://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_OTC_ap1f55f482a2df2bede07c661806c
 #EXTINF:-1 tvg-id="pervouralsk-tv" tvg-logo="https://iptvx.one/picons/pervouralsk-tv.png" group-title="Региональные" ,Первоуральск ТВ
 https://bl.rutube.ru/livestream/59e0373a9aa587e06aeaf9009f86ded1/index.m3u8?s=RqQza13Ro4UeKu7IwmQbHA&e=2070623502&scheme=https
 
-#EXTINF:-1 tvg-id="pervy-pskovsky" tvg-logo="https://iptvx.one/picons/pervy-pskovsky.png" group-title="Региональные" ,Первый Псковский
-http://live-3.otcnet.ru/pskov/index.m3u8
-
 #EXTINF:-1 tvg-id="pervy-rostovsky" tvg-logo="https://iptvx.one/picons/pervy-rostovsky.png" group-title="Региональные" ,Первый Ростовский
 https://rost.mediacdn.ru/cdn/rostov1/tracks-v2a1/mono.m3u8
 
