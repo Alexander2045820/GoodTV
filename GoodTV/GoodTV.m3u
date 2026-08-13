@@ -1,4 +1,4 @@
-#EXTM3U deinterlace=1 m3uautoload=1 url-tvg="https://iptvx.one/epg/epg.xml.gz" catchup="append" catchup-days="4" catchup-source="?offset=-${offset}&utcstart=${timestamp}"
+#EXTM3U url-tvg="https://iptvx.one/epg/epg.xml.gz" 
 #PLAYLIST:GoodTV
 
 
@@ -1052,8 +1052,17 @@ http://live.novoeradio.by:8081/live/novoeradio_1080p/chunks.m3u8
 
 
 
-#EXTINF:-1 tvg-id="exxxotica" group-title="Взрослые [ВХОД СТРОГО 18+]", Exxxotica
-http://31.148.48.15:80/O-la-la/index.m3u8
+#EXTINF:-1 tvg-id="playboy-tv" group-title="Взрослые [ВХОД СТРОГО 18+]",Playboy TV
+http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
+
+#EXTINF:-1 group-title="Взрослые [ВХОД СТРОГО 18+]",Русская ночь
+http://185.184.233.178:5000/udp/225.1.2.166:1234
+
+#EXTINF:-1 tvg-id="no_epg_xxx" tvg-logo="https://s.rbk.ru/v1_companies_s3/media/trademarks/0737acd5-1854-4f3c-9521-2b9d82c4d54e.jpg" group-title="Взрослые [ВХОД СТРОГО 18+]",Porn Classic
+http://200.194.238.229:8383/live/pornclassic/playlist.m3u8
+
+#EXTINF:-1 tvg-id="no_epg_xxx" tvg-logo="http://1.bp.blogspot.com/-E-qvJLo_j1s/UB7Jd47Ro2I/AAAAAAAAATw/qQskQfN6tQ4/s1600/miami-tv-logo-gif2_design.png" group-title="Взрослые [ВХОД СТРОГО 18+]",Miami TV
+http://59ec5453559f0.streamlock.net:1935/Miamitv/smil:WEB4141/chuklist.m3u8
 
 #EXTINF:-1 tvg-id="digital-desire" group-title="Взрослые [ВХОД СТРОГО 18+]", Digital Desire
 #EXTVLCOPT:http-user-agent=SmartTV
@@ -1083,6 +1092,21 @@ http://88.212.7.11/live/test_extasy_hd_hevc/playlist.m3u8
 #EXTVLCOPT:http-user-agent=SmartTV
 http://88.212.7.11/live/test_basbes_hd_hevc/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://ewsat.com/img/DUSK.png" group-title="Взрослые [ВХОД СТРОГО 18+]" tvg-id="no_epg_xxx", DUSK
+http://88.212.7.11/live/test_dusk_sd_hevc/playlist.m3u8
+
+#EXTINF:-1 group-title="Взрослые [ВХОД СТРОГО 18+]" tvg-logo="http://i123.fastpic.org/big/2024/0716/00/1d22e6d9608f7bef85dd815faaa8db00.png", Pink Erotic 1
+https://webtvstream.bhtelecom.ba/pink_erotic1.m3u8
+
+#EXTINF:-1 group-title="Взрослые [ВХОД СТРОГО 18+]" tvg-logo="http://i123.fastpic.org/big/2024/0716/6a/91d9514ae3ffe6fa2eab04e2415cda6a.png", Pink Erotic 2
+https://webtvstream.bhtelecom.ba/pink_erotic2.m3u8
+
+#EXTINF:-1 group-title="Взрослые [ВХОД СТРОГО 18+]" tvg-logo="http://i123.fastpic.org/big/2024/0716/b8/f4216b15307951bd50682eab8c6b16b8.png", Pink Erotic 3
+https://webtvstream.bhtelecom.ba/pink_erotic3.m3u8
+
+#EXTINF:-1 group-title="Взрослые [ВХОД СТРОГО 18+]" tvg-id="no_epg_xxx" tvg-logo="http://i123.fastpic.org/big/2024/0716/50/20497257390becd38ff0f6f5e282c550.png",Eropuls DE 18+
+https://api.alpaca.t62a.com/hls/9108/stream0.m3u8
+
 #EXTINF:-1 tvg-id="no_epg_xxx" tvg-logo="https://www.ifcmedia.sk/wp-content/uploads/2021/03/image-18-2048x902.png" group-title="Взрослые [ВХОД СТРОГО 18+]", Leo TV
 #EXTVLCOPT:http-user-agent=SmartTV
 http://88.212.7.11/live/test_leo_hd_hevc/playlist.m3u8
@@ -1105,6 +1129,9 @@ http://cdn.adultiptv.net/livecams.m3u8
 
 #EXTINF:-1 tvg-logo="http://i123.fastpic.org/big/2024/0716/50/20497257390becd38ff0f6f5e282c550.png" tvg-id="no_epg_xxx" group-title="Взрослые [ВХОД СТРОГО 18+]",Russian
 http://cdn.adultiptv.net/russian.m3u8
+
+#EXTINF:-1 group-title="Взрослые [ВХОД СТРОГО 18+]",Asian
+http://live.adultiptv.net/asian.m3u8
 
 #EXTINF:-1 tvg-logo="http://i123.fastpic.org/big/2024/0716/50/20497257390becd38ff0f6f5e282c550.png" tvg-id="no_epg_xxx" group-title="Взрослые [ВХОД СТРОГО 18+]",Threesome
 http://cdn.adultiptv.net/threesome.m3u8
@@ -1145,5 +1172,26 @@ http://cdn.adultiptv.net/pornstar.m3u8
 #EXTINF:-1 tvg-logo="http://i123.fastpic.org/big/2024/0716/50/20497257390becd38ff0f6f5e282c550.png" tvg-id="no_epg_xxx" group-title="Взрослые [ВХОД СТРОГО 18+]",Lesbian
 http://cdn.adultiptv.net/lesbian.m3u8
 
+#EXTINF:-1 tvg-name="Brunette" group-title="Взрослые [ВХОД СТРОГО 18+]", Brunette
+http://cdn.adultiptv.net/brunette.m3u8
+
+#EXTINF:-1 tvg-name="Gangbang" group-title="Взрослые [ВХОД СТРОГО 18+]", Gangbang
+http://cdn.adultiptv.net/gangbang.m3u8
+
 #EXTINF:-1 tvg-logo="http://i123.fastpic.org/big/2024/0716/50/20497257390becd38ff0f6f5e282c550.png" tvg-id="no_epg_xxx" group-title="Взрослые [ВХОД СТРОГО 18+]",Cuckold
 http://live.redtraffic.xyz/cuckold.m3u8
+
+#EXTINF:-1 tvg-name="Big Ass" group-title="Взрослые [ВХОД СТРОГО 18+]", Big Ass
+http://cdn.adultiptv.net/bigass.m3u8
+
+#EXTINF:-1 tvg-name="Big Dick" group-title="Взрослые [ВХОД СТРОГО 18+]", Big Dick
+http://cdn.adultiptv.net/bigdick.m3u8
+
+#EXTINF:-1 tvg-name="Blowjob HD" group-title="Взрослые [ВХОД СТРОГО 18+]", Blowjob HD
+http://cdn.adultiptv.net/blowjob.m3u8
+
+#EXTINF:-1 tvg-name="Compilation" group-title="Взрослые [ВХОД СТРОГО 18+]", Compilation
+http://cdn.adultiptv.net/compilation.m3u8
+
+#EXTINF:-1 tvg-name="Interracial" group-title="Взрослые [ВХОД СТРОГО 18+]", Interracial
+http://cdn.adultiptv.net/interracial.m3u8
