@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1 group-title="TV каналы",РУССКАЯ НОЧЬ
+http://185.184.233.178:5000/udp/225.1.2.175:1234
+#EXTINF:-1 group-title="TV каналы",Brazzers HD
+http://45.145.32.13:20440/brazzers/index.m3u8?token=test
+#EXTINF:-1 group-title="TV каналы",Penthouse Reality TV HD
+http://185.98.209.11:81/penthouse2/index.m3u8?token=test
+#EXTINF:-1 group-title="TV каналы",Penthouse Gold
+http://185.98.209.11:81/penthouse1/index.m3u8?token=test
