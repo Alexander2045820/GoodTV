@@ -157,61 +157,61 @@ http://fs.uplink.kz/russkiy_illusion/tracks-v1a1/mono.ts.m3u8?token=onlinetv
 https://flussonic.mkpnet.ru/tv-c90a71c34cc779ac/video.m3u8
 #EXTINF:-1 tvg-id="sovkino" tvg-logo="https://iptvx.one/picons/sovkino.png" group-title="Кино" ,Советское кино
 http://stitch.teletarget.ru/vintera/sovietmovie/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kggBNFF4/image-46.png" tvg-id="" group-title="Кино", Балабол
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kggBNFF4/image-46.png" tvg-id="" group-title="Кинозалы", Балабол
 https://cdn-dvr.ntv.ru/Balabol/tracks-v1a1/rewind-240.ts.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Mxv7fjsN/image-32.png" tvg-id="" group-title="Кино", Невский
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Mxv7fjsN/image-32.png" tvg-id="" group-title="Кинозалы", Невский
 https://cdn-dvr.ntv.ru/Nevskiy/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/7tSd2XYf/image-31.png" tvg-id="" group-title="Кино", Первый Отдел
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7tSd2XYf/image-31.png" tvg-id="" group-title="Кинозалы", Первый Отдел
 https://cdn-dvr.ntv.ru/Perviy_otdel/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/HpNJPkGR/image-47.png" tvg-id="" group-title="Кино", Пять минут тишины
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HpNJPkGR/image-47.png" tvg-id="" group-title="Кинозалы", Пять минут тишины
 https://cdn-dvr.ntv.ru/5_minut_tishiny/tracks-v1a1/rewind-240.ts.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/nsjTTHm2/image-44.png" tvg-id="" group-title="Кино", Пёс
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nsjTTHm2/image-44.png" tvg-id="" group-title="Кинозалы", Пёс
 https://cdn-dvr.ntv.ru/Pes/tracks-v1a1/rewind-240.ts.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/p6gZ2BXn/image-4.png" tvg-id="" group-title="Кино", Своя Игра
+#EXTINF:-1 tvg-logo="https://i.ibb.co/p6gZ2BXn/image-4.png" tvg-id="" group-title="Кинозалы", Своя Игра
 https://cdn-dvr.ntv.ru/svoya_igra/tracks-v1a1/rewind-240.ts.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ynB5bFXQ/image-45.png" tvg-id="" group-title="Кино", Скорая помощь
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ynB5bFXQ/image-45.png" tvg-id="" group-title="Кинозалы", Скорая помощь
 https://cdn-dvr.ntv.ru/Skoraja_pomosh/tracks-v1a1/rewind-240.ts.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/nMsMD0Q4/image-34.png" tvg-id="" group-title="Кино", Следствие вели...
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nMsMD0Q4/image-34.png" tvg-id="" group-title="Кинозалы", Следствие вели...
 https://cdn-dvr.ntv.ru/sledstvie/tracks-v1a1/rewind-240.ts.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/CpYZFf54/image-38.png" tvg-id="" group-title="Кино", Ты супер !
+#EXTINF:-1 tvg-logo="https://i.ibb.co/CpYZFf54/image-38.png" tvg-id="" group-title="Кинозалы", Ты супер !
 https://cdn-dvr.ntv.ru/Super/tracks-v1a1/rewind-240.ts.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/pBZQdVdM/image-30.png" tvg-id="" group-title="Кино", Шеф
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pBZQdVdM/image-30.png" tvg-id="" group-title="Кинозалы", Шеф
 https://cdn-dvr.ntv.ru/Shef/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Детские",Смайлик ТВ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/2f052691c75d72b3ed7f3c33ea956a41/index.m3u8?s=6ClHlirJtr9HX0JRG2-94Q&e=2078482427&scheme=https
+#EXTINF:-1 tvg-id="cartoon-classics" tvg-logo="https://iptvx.one/picons/cartoon-classics.png" group-title="Детские" ,Cartoon Classics
+http://5.188.159.128:8070/Cartoon_Network/index.m3u8
+#EXTINF:-1 tvg-id="cartoon-network" tvg-logo="https://iptvx.one/picons/cartoon-network.png" group-title="Детские" ,Cartoon Network
+http://176.118.197.101/Cartoon_Network/index.m3u8
+#EXTINF:-1 tvg-id="ducktv" tvg-logo="https://iptvx.one/picons/ducktv.png" group-title="Детские",Duck TV
+https://stream8.cinerama.uz/1271/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Детские",Gulli Girl
+https://flussonic.mkpnet.ru/tv-d66fcf59f2f4c966/video.m3u8
+#EXTINF:-1 tvg-id="tiji" tvg-logo="https://iptvx.one/picons/tiji.png" group-title="Детские" ,TiJi
+https://stream8.cinerama.uz/1441/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Детские",В гостях у сказки
+https://stream8.cinerama.uz/1270/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Детские",Детский мир
+http://158.101.222.193:88/georgia_play.php?id=detskymir
+#EXTINF:-1 tvg-id="ginger-hd" tvg-logo="https://iptvx.one/picons/capfantast.png" group-title="Детские" ,Капитан Фантастика
+https://stream8.cinerama.uz/1406/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Детские" tvg-logo="https://pic.rtbcdn.ru/user/7a/8e/7a8ebf04f384363ea92ab71e18c02020.jpg",Ключайка
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://bl.rutube.ru/livestream/ed497bdb28846536f3928849f8f7e469/index.m3u8?s=NjU84wfhYv2PbGWprX0Agg&e=2078482429&scheme=https
-#EXTINF:-1 tvg-id="solnce" tvg-logo="https://iptvx.one/picons/solnce.png" group-title="Детские" ,Солнце
-http://tv.mediacdn.ru/live/solntse/playlist.m3u8
-#EXTINF:-1 group-title="Детские",Gulli Girl
-https://flussonic.mkpnet.ru/tv-d66fcf59f2f4c966/video.m3u8
-#EXTINF:-1 tvg-id="cartoon-network" tvg-logo="https://iptvx.one/picons/cartoon-network.png" group-title="Детские" ,Cartoon Network
-http://176.118.197.101/Cartoon_Network/index.m3u8
-#EXTINF:-1 tvg-id="cartoon-classics" tvg-logo="https://iptvx.one/picons/cartoon-classics.png" group-title="Детские" ,Cartoon Classics
-http://5.188.159.128:8070/Cartoon_Network/index.m3u8
 #EXTINF:-1 group-title="Детские",Малыш
 https://flussonic.mkpnet.ru/tv-66968914d630446e/video.m3u8
-#EXTINF:-1 group-title="Детские",Уникум
-https://stream8.cinerama.uz/1033/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Детские" tvg-logo="https://i.postimg.cc/RCgvJhdQ/image.png",СоюзМультфильм
-http://194.26.229.213/souzmultfilm/index.m3u8
-#EXTINF:-1 group-title="Детские" tvg-logo="https://i.postimg.cc/BvqS8HVV/1.png",Чип и Дейл
-http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
-#EXTINF:-1 group-title="Детские",Детский мир
-http://158.101.222.193:88/georgia_play.php?id=detskymir
-#EXTINF:-1 group-title="Детские",В гостях у сказки
-https://stream8.cinerama.uz/1270/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="ducktv" tvg-logo="https://iptvx.one/picons/ducktv.png" group-title="Детские",Duck TV
-https://stream8.cinerama.uz/1271/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="tiji" tvg-logo="https://iptvx.one/picons/tiji.png" group-title="Детские" ,TiJi
-https://stream8.cinerama.uz/1441/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="ginger-hd" tvg-logo="https://iptvx.one/picons/capfantast.png" group-title="Детские" ,Капитан Фантастика
-https://stream8.cinerama.uz/1406/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="radost-moya" tvg-logo="https://iptvx.one/picons/radost-moya.png" group-title="Детские" ,Радость моя
 https://radm.mediacdn.ru/cdn/radost/playlist_sdhigh.m3u8
-#EXTINF:-1 group-title="Детские" tvg-id="shayantv", Шаян HD
+#EXTINF:-1 group-title="Детские",Смайлик ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/2f052691c75d72b3ed7f3c33ea956a41/index.m3u8?s=6ClHlirJtr9HX0JRG2-94Q&e=2078482427&scheme=https
+#EXTINF:-1 tvg-id="solnce" tvg-logo="https://iptvx.one/picons/solnce.png" group-title="Детские" ,Солнце
+http://tv.mediacdn.ru/live/solntse/playlist.m3u8
+#EXTINF:-1 group-title="Детские" tvg-logo="https://i.postimg.cc/RCgvJhdQ/image.png",СоюзМультфильм
+http://194.26.229.213/souzmultfilm/index.m3u8
+#EXTINF:-1 group-title="Детские",Уникум
+https://stream8.cinerama.uz/1033/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Детские" tvg-logo="https://i.postimg.cc/BvqS8HVV/1.png",Чип и Дейл
+http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
+#EXTINF:-1 group-title="Детские" tvg-id="shayantv", Шаян
 http://shayan.bonus-tv.ru:80/cdn/shayan/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="2na2" tvg-logo="https://iptvx.one/picons/2na2.png" group-title="Развлекательные" ,2x2
 #EXTVLCOPT:http-user-agent="WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer"
