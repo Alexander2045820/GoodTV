@@ -633,14 +633,22 @@ https://bl.rutube.ru/livestream/406973c72e9d0449feef05ef7811ad01/index.m3u8?s=8B
 #EXTINF:-1 group-title="Познавательные" tvg-logo="https://pic.rtbcdn.ru/user/ef/1e/ef1e6d84b7c04f92ed0ff02bd6668328.jpg",HHQ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://bl.rutube.ru/livestream/2d7fa51716500fba52586d594201777f/index.m3u8?s=tN-MT9VCaOMFBZloRSo0uA&e=2082240619&scheme=https
-#EXTINF:-1 tvg-id="soyuz" tvg-logo="https://iptvx.one/picons/soyuz.png" group-title="Религиозные" ,Союз
+#EXTINF:-1 group-title="Религиозные", Союз
 http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
-#EXTINF:-1 tvg-id="muzsoyuz" tvg-logo="https://iptvx.one/picons/muzsoyuz.png" group-title="Религиозные" ,МузСоюз
+#EXTINF:-1 group-title="Религиозные", МузСоюз
 http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3u8
-#EXTINF:-1 tvg-id="nadezhda" tvg-logo="https://iptvx.one/picons/nadezhda.png" group-title="Религиозные" ,Надежда
+#EXTINF:-1 group-title="Религиозные", Надежда
 http://tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/tracks-v1a1/mono.m3u8?hls_proxy_host=5edf215ae950326c87f8788991c1ffc7
 #EXTINF:-1 group-title="Религиозные", Три ангела
 https://hls.tv.3angels.ru/stream.m3u8
+#EXTINF:-1 group-title="Религиозные", Бог Благ
+https://glorystarplus.tv/BogBlagTV/index.m3u8
+#EXTINF:-1 group-title="Религиозные", Хузур
+https://hls-mycdn08724960135.cdnvideo.ru/mycdn08724960135/stream1/playlist.m3u8
+#EXTINF:-1 group-title="Религиозные", TBN Baltia
+http://dc.tbnbaltia.eu:8088/dvr/rewind-21600.m3u8
+#EXTINF:-1 group-title="Религиозные", ТБВ
+http://bv.mediacdn.ru/cdn/blagvest/playlist.m3u8
 #EXTINF:-1 group-title="Спортивные",Megogo Sport
 http://5.188.159.128:8070/megogo_sport/index.m3u8
 #EXTINF:-1 group-title="Спортивные" tvg-id="eleven-sports-1",Eleven Sports 1 HD [PL]
