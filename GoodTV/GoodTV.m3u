@@ -165,6 +165,14 @@ http://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/track
 https://english-livetx.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802_hd.m3u8
 #EXTINF:-1 group-title="Новости", RT News
 http://rt-glb.rttv.com/dvr/rtnews/playlist.m3u8
+#EXTINF:-1 group-title="Новости", RT English
+https://rt-glb.rttv.com/dvr/rtnews/playlist_1600Kb.m3u8
+#EXTINF:-1 group-title="Новости", RT English HD
+https://rumble-foxo.cdn.rumble.cloud/live/hr6yv36f/slot-4/mxtm-wdfe_1080p/chunklist_DVR.m3u8
+#EXTINF:-1 group-title="Новости", Соловьев Live
+https://stream.smotrim.ru/hls2/solovievlive/playlist_3.m3u8
+#EXTINF:-1 group-title="Новости", ТАСС
+https://tass-hls.servicecdn.ru/httpstreamer/tass-loop-main.stream_480p/playlist.m3u8
 #EXTINF:-1 group-title="Новости", RTД
 https://rt-rtd.rttv.com/live/rtdoc/playlist.m3u8
 #EXTINF:-1 group-title="Новости", TV BRICS
@@ -549,6 +557,26 @@ http://5.188.159.128:8070/udar/index.m3u8
 https://flussonic.mkpnet.ru/tv-3cdc33d3606ba23f/video.m3u8
 #EXTINF:-1 group-title="Музыкальные",Bridge TV
 https://flussonic.mkpnet.ru/tv-ceaa6aa3cc1ea359/video.m3u8
+#EXTINF:-1 group-title="Музыкальные", Mezzo Live HD
+http://stream.mcquack.net/276/index.m3u8
+#EXTINF:-1 group-title="Музыкальные", Deluxe Music
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
+#EXTINF:-1 group-title="Музыкальные", Deluxe Rap
+http://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m3u8
+#EXTINF:-1 group-title="Музыкальные", CHD RU Rock HD
+http://194.26.229.213/chdtv_ru_rock/index.m3u8
+#EXTINF:-1 group-title="Музыкальные", CHD Rock HD
+http://194.26.229.213/chdtv_rock/index.m3u8
+#EXTINF:-1 group-title="Музыкальные", Stingray iConcerts HD
+https://dash4.antik.sk/live/test_stingray_iconcerts_hd_hevc50/playlist.m3u8
+#EXTINF:-1 group-title="Музыкальные", Radio M2O
+http://streamcdnm5-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/index.m3u8
+#EXTINF:-1 group-title="Музыкальные", Clubbing TV HD
+http://46.151.151.250:9201
+#EXTINF:-1 group-title="Музыкальные", Музыка Первого
+http://195.64.140.147:10196/196
+#EXTINF:-1 group-title="Музыкальные", kronehit
+http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b1628000.m3u8
 #EXTINF:-1 group-title="Музыкальные",1HD Music
 http://176.118.197.101/1HD/index.m3u8
 #EXTINF:-1 group-title="Музыкальные",Курай
@@ -575,12 +603,76 @@ https://bl.rutube.ru/livestream/965a025e4ebbaf0957415f80c6de8534/index.m3u8?s=Nj
 https://bl.rutube.ru/livestream/047ba54d846ee185b4209a797a2ae138/index.m3u8?s=3WHGGtVo7aaUWpdHdcnXvA&e=2082240643&scheme=https
 #EXTINF:-1 group-title="Музыкальные",Phonk
 https://bl.rutube.ru/livestream/f972da70f03eee3d14fcff4113a8b6e4/index.m3u8?s=Z5_MOOXcAJNM2JWWJBYw6w&e=2082240646&scheme=https
+#EXTINF:-1 group-title="Музыкальные" audio-track="rus", ТНТ Music
+http://tntm.mediacdn.ru/cdn/tntmusic/tracks-v3a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Музыкальные" audio-track="rus", Шансон-ТВ
+http://hls-shansontv.cdnvideo.ru/shansontv/shansontv.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Музыкальные" ,FON music
 https://cdn-01.bonus-tv.ru/tntmusic/playlist.m3u8
 #EXTINF:-1 group-title="Музыкальные" ,Восток ТВ
 http://911play.ru:3456/live/VostokSite/cdnVostaoc911tv123456/489.m3u8
-#EXTINF:-1 group-title="Музыкальные" ,Радио Шансон
+#EXTINF:-1 group-title="Музыкальные", Сити Эдем — Meditation Music
+https://cityeden.catcast.tv/content/47410/index.m3u8?password=loganet
+#EXTINF:-1 group-title="Музыкальные", Сити Эдем — БирмаПлей
+https://cityeden.catcast.tv/content/34364/index.m3u8?password=loganet
+#EXTINF:-1 group-title="Музыкальные", Сити Эдем — СиртакиТВ
+https://cityeden.catcast.tv/content/46421/index.m3u8?password=loganet
+#EXTINF:-1 group-title="Радио" ,Радио Шансон
 http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live.m3u8
+#EXTINF:-1 group-title="Радио",Радио Центр
+https://centrfm.dc.beltelecom.by/centrfm/livestream/playlist.m3u8
+#EXTINF:-1 group-title="Радио", Радио Харьков Z
+http://node1.craftradio.ru:8000/215_55AE795B
+#EXTINF:-1 group-title="Радио",Радио Пика
+https://radio.pika-fm.ru:8443/pika.fm
+#EXTINF:-1 group-title="Радио", Radio Fresh
+https://fresh.amgradio.ru/Fresh?nc=624857
+#EXTINF:-1 group-title="Радио", MUSIC BOX RADIO
+https://musicbox.amgradio.ru/musicbox?nc=26572
+#EXTINF:-1 group-title="Радио", Джем FM
+https://online.jamfm.ru/jam_aacplus?v=1743007755223
+#EXTINF:-1 group-title="Радио", Дорожное радио
+https://dorognoe.hostingradio.ru/radio
+#EXTINF:-1 group-title="Радио", Радио Дача
+https://ic1.radiosignal.one/vanya
+#EXTINF:-1 group-title="Радио", Пионер FM
+https://listen10.myradio24.com/pionerfm
+#EXTINF:-1 group-title="Радио", Гоп FM
+https://hls-01-radiorecord.hostingradio.ru/record-gop/playlist.m3u8
+#EXTINF:-1 group-title="Радио", PriMuzFM
+https://listen2.myradio24.com/8118
+#EXTINF:-1 group-title="Радио", Dance One
+https://strm112.1.fm/dance_mobile_mp3?aw_0_req.gdpr=true&listenerid=1743001209878_0.01621769389726002&awparams=companionAds%3Atrue
+#EXTINF:-1 group-title="Радио", Trance Hits
+https://radiorecord.hostingradio.ru/trancehits96.aacp
+#EXTINF:-1 group-title="Радио", Супердискотека 90-х
+https://radiorecord.hostingradio.ru/sd9096.aacp
+#EXTINF:-1 group-title="Радио", Relax FM Gold
+https://pub0201.101.ru/stream/trust/mp3/128/266
+#EXTINF:-1 group-title="Радио", Радио FM
+https://hls-01-regions.emgsound.ru/12_msk/playlist.m3u8
+#EXTINF:-1 group-title="Радио", Радио Ваня
+https://icecast-radiovanya.cdnvideo.ru/radiovanya?60f0
+#EXTINF:-1 group-title="Радио", 00s Hip Hop
+https://strm112.1.fm/club_mobile_mp3?aw_0_req.gdpr=true&listenerid=29ec89dd3733046f617da18c90d61457&awparams=companionAds%3Atrue
+#EXTINF:-1 group-title="Радио", Urban - Европа Плюс
+https://epdop.hostingradio.ru:8033/ep-urban128.mp3
+#EXTINF:-1 group-title="Радио", Rap Hits
+https://radiorecord.hostingradio.ru/rap96.aacp
+#EXTINF:-1 group-title="Радио", BOM Psytrance
+https://strm112.1.fm/psytrance_mobile_mp3?aw_0_req.gdpr=true&listenerid=29ec89dd3733046f617da18c90d61457&awparams=companionAds%3Atrue
+#EXTINF:-1 group-title="Радио", Metallica - Радио Maximum
+https://metallica.hostingradio.ru/metallica96.aacp
+#EXTINF:-1 group-title="Радио", Радио Маяк
+https://icecast-vgtrk.cdnvideo.ru/mayakfm_mp3_192kbps
+#EXTINF:-1 group-title="Радио", Радио Радонеж
+https://icecast-radonezh.cdnvideo.ru/rad128
+#EXTINF:-1 group-title="Радио", Воскресение
+https://inra3.pravradio.ru/stream.mp3
+#EXTINF:-1 group-title="Радио", СКАЗКА FM
+http://skazka.amgradio.ru/Skazka
+#EXTINF:-1 group-title="Радио", KIDS
+https://strm112.1.fm/kidsfm_mobile_mp3?aw_0_req.gdpr=true&listenerid=29ec89dd3733046f617da18c90d61457&awparams=companionAds%3Atrue
 #EXTINF:-1 group-title="Региональные", НТК
 https://rt-sth-elista-htlive.cdn.ngenix.net/hls/CH_R01_OTT_STH_ELISTA_HAMDAN/variant.m3u8
 #EXTINF:-1 group-title="Региональные", Экспресс
@@ -877,8 +969,6 @@ https://edge50.dc.beltelecom.by/ctv/ctv.stream/chunklist_b5160000_sleng.m3u8
 http://radio.tvs.by:8088/TRO/index.m3u8
 #EXTINF:-1 group-title="Беларусь",Витебск
 https://ngtrk.dc.beltelecom.by/vtv/_definst_/vitebsk.stream/playlist.m3u8
-#EXTINF:-1 group-title="Беларусь",Радио Центр
-https://centrfm.dc.beltelecom.by/centrfm/livestream/playlist.m3u8
 #EXTINF:-1 group-title="Казахстан", МТРК
 https://tvcdn01.oktv.kz/tv/mtrk/index.m3u8
 #EXTINF:-1 group-title="Казахстан", Qazaqstan
