@@ -55,6 +55,8 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_5/variant.m3u8
 https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_6/variant.m3u8
 #EXTINF:-1 group-title="Федеральные +", Первый канал (+8)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_8/variant.m3u8
+#EXTINF:-1 group-title="Федеральные +", Первый канал (+9)
+https://s14131.cdn.ngenix.net/hls/CH_R41_OTT_DV_KAM_1TV/variant.m3u8
 #EXTINF:-1 group-title="Федеральные +", Россия 1 (-1)
 https://rt-nw-klgr-htlive.cdn.ngenix.net/hls/CH_R04_OTT_NW_KLGR_ROSSIA1/variant.m3u8
 #EXTINF:-1 group-title="Федеральные +", Россия 1 (+1)
@@ -67,6 +69,12 @@ http://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_SIB_OMSK_ROSSIA1_OMSKOBL
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_4/variant.m3u8
 #EXTINF:-1 group-title="Федеральные +", Россия 1 (+5)
 https://rt-sib-uude-htlive.cdn.ngenix.net/hls/CH_R04_OTT_SIB_UUDE_ROSSIA1_ULAN/variant.m3u8
+#EXTINF:-1 group-title="Федеральные +", Россия 1 (+6)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_7/variant.m3u8
+#EXTINF:-1 group-title="Федеральные +", Россия 1 (+8)
+https://s20441.cdn.ngenix.net/hls/CH_R49_OTT_DV_MGDN_ROSSIA1/variant.m3u8
+#EXTINF:-1 group-title="Федеральные +", Россия 1 (+9)
+https://s14131.cdn.ngenix.net/hls/CH_R41_OTT_DV_KAM_ROSSIA1/variant.m3u8
 #EXTINF:-1 group-title="Федеральные +", НТВ (+1)
 https://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R03_OTT_VLG_SARATOV_NTV/variant.m3u8
 #EXTINF:-1 group-title="Федеральные +", НТВ (+2)
@@ -343,6 +351,64 @@ https://cityeden.catcast.tv/content/45269/index.m3u8
 https://cityeden.catcast.tv/content/47519/index.m3u8
 #EXTINF:-1 group-title="Кинозалы Catcast", Рецепты Гурмана
 https://cityeden.catcast.tv/content/47516/index.m3u8
+#EXTINF:-1  group-title="Кинозалы Play-X" ,Play-x (90-е) HD
+http://cdntv.online/low/36m9rn5du2/2227.m3u8
+#EXTINF:-1  group-title="Кинозалы Play-X" ,Play-x 6 кадров HD
+http://cdntv.online/low/36m9rn5du2/2220.m3u8
+#EXTINF:-1  group-title="Кинозалы Play-X" ,Play-x Военная приемка HD
+http://cdntv.online/low/36m9rn5du2/2218.m3u8
+#EXTINF:-1  group-title="Кинозалы Play-X" ,Play-x География уральских пельменей HD
+http://cdntv.online/low/36m9rn5du2/2217.m3u8
+#EXTINF:-1  group-title="Кинозалы Play-X" ,Play-x Женский стендап HD
+http://cdntv.online/low/36m9rn5du2/2229.m3u8
+#EXTINF:-1  group-title="Кинозалы Play-X" ,Play-x Импровизаторы HD
+http://cdntv.online/low/36m9rn5du2/2219.m3u8
+#EXTINF:-1  group-title="Кинозалы Play-X" ,Play-x Кинозал 1 HD
+http://cdntv.online/low/36m9rn5du2/2228.m3u8
+#EXTINF:-1  group-title="Кинозалы Play-X" ,Play-x Кинозал 12 HD
+http://cdntv.online/low/36m9rn5du2/2240.m3u8
+#EXTINF:-1  group-title="Кинозалы Play-X" ,Play-x Кинозал 13 HD
+http://cdntv.online/low/36m9rn5du2/2241.m3u8
+#EXTINF:-1  group-title="Кинозалы Play-X" ,Play-x Кинозал 14 HD
+http://cdntv.online/low/36m9rn5du2/2242.m3u8
+#EXTINF:-1  group-title="Кинозалы Play-X" ,Play-x Кинозал 15 HD
+http://cdntv.online/low/36m9rn5du2/2243.m3u8
+#EXTINF:-1  group-title="Кинозалы Play-X" ,Play-x Кинозал 19 HD
+http://cdntv.online/low/36m9rn5du2/2249.m3u8
+#EXTINF:-1  group-title="Кинозалы Play-X" ,Play-x Кинозал 2 HD
+http://cdntv.online/low/36m9rn5du2/2232.m3u8
+#EXTINF:-1  group-title="Кинозалы Play-X" ,Play-x Кинозал 23 HD
+http://cdntv.online/low/36m9rn5du2/2230.m3u8
+#EXTINF:-1  group-title="Кинозалы Play-X" ,Play-x Кинозал 3 HD
+http://cdntv.online/low/36m9rn5du2/2233.m3u8
+#EXTINF:-1  group-title="Кинозалы Play-X" ,Play-x Кинозал 4 HD
+http://cdntv.online/low/36m9rn5du2/2234.m3u8
+#EXTINF:-1  group-title="Кинозалы Play-X" ,Play-x Кинозал 5 HD
+http://cdntv.online/low/36m9rn5du2/2235.m3u8
+#EXTINF:-1  group-title="Кинозалы Play-X" ,Play-x Кинозал 6 HD
+http://cdntv.online/low/36m9rn5du2/2236.m3u8
+#EXTINF:-1  group-title="Кинозалы Play-X" ,Play-x Кинозал 7 HD
+http://cdntv.online/low/36m9rn5du2/2237.m3u8
+#EXTINF:-1  group-title="Кинозалы Play-X" ,Play-x Кинозал 8 HD
+http://cdntv.online/low/36m9rn5du2/2238.m3u8
+#EXTINF:-1  group-title="Кинозалы Play-X" ,Play-x Кинозал 9 HD
+http://cdntv.online/low/36m9rn5du2/2239.m3u8
+#EXTINF:-1  group-title="Кинозалы Play-X" ,Play-x Между нами HD
+http://cdntv.online/low/36m9rn5du2/2222.m3u8
+#EXTINF:-1  group-title="Кинозалы Play-X" ,Play-x Пограничный HD
+http://cdntv.online/low/36m9rn5du2/2231.m3u8
+#EXTINF:-1  group-title="Кинозалы Play-X" ,Play-x Последний герой HD
+http://cdntv.online/low/36m9rn5du2/2224.m3u8
+#EXTINF:-1  group-title="Кинозалы Play-X" ,Play-x Про людей и войну HD
+http://cdntv.online/low/36m9rn5du2/2216.m3u8
+#EXTINF:-1  group-title="Кинозалы Play-X" ,Play-x Русская дорога HD
+http://cdntv.online/low/36m9rn5du2/2225.m3u8
+#EXTINF:-1  group-title="Кинозалы Play-X" ,Play-x Тайны Чапман HD
+http://cdntv.online/low/36m9rn5du2/2215.m3u8
+#EXTINF:-1  group-title="Кинозалы Play-X" ,Play-x Уральские пельмени HD
+http://cdntv.online/low/36m9rn5du2/2226.m3u8
+#EXTINF:-1  group-title="Кинозалы Play-X" ,Play-x Beast Games HD
+http://cdntv.online/low/36m9rn5du2/2223.m3u8
 #EXTINF:-1 group-title="Кинозалы Смотрим", Смотрим 100% Детское
 https://stream.smotrim.ru/hls3/fasttv05/playlist_3.m3u8
 #EXTINF:-1 group-title="Кинозалы Смотрим", Смотрим 100% Классика
@@ -367,8 +433,6 @@ https://flussonic.mkpnet.ru/tv-66968914d630446e/video.m3u8
 https://lbgo.bozztv.com/07/ushba79/index.m3u8
 #EXTINF:-1 group-title="Детские", Мультиландия 
 http://217.11.177.55/streams/media/multilandiya_720x576/index.m3u8
-#EXTINF:-1 group-title="Детские", МультСказки
-http://5.188.158.65:4040/IPTVPLAYMultSkazki.tv/video.m3u8?token=lqRGka5-YwwqF0
 #EXTINF:-1 group-title="Детские", Мультфильмы
 https://lbgo.bozztv.com/07/ushba80/index.m3u8
 #EXTINF:-1 group-title="Детские", Плюс минус 16
@@ -409,6 +473,8 @@ https://bl.rutube.ru/livestream/9ae8e8a6dc58bdad66190475f9872ecd/index.m3u8?s=U_
 https://cdn-01.bonus-tv.ru/tvm_edge/index.m3u8
 #EXTINF:-1 group-title="Развлекательные", Колыма-Плюс
 https://tw2ywfm7jbp.a.trbcdn.net/livemaster/7phjk_live-papd7z4v92.smil/playlist.m3u8
+#EXTINF:-1 group-title="Развлекательные",Камин
+https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R05_KAMINTV/variant.m3u8
 #EXTINF:-1 group-title="Развлекательные", Открытый мир
 http://v4.proofix.ru/0mir/index.m3u8
 #EXTINF:-1 group-title="Развлекательные", Продвижение
