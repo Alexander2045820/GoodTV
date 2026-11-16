@@ -229,6 +229,16 @@ https://flussonic.mkpnet.ru/tv-e80cc885d4ae14d1/video.m3u8
 https://flussonic.mkpnet.ru/tv-cad19a32f4a82824/video.m3u8
 #EXTINF:-1 group-title="Кино", Amedia Hit
 https://flussonic.mkpnet.ru/tv-8f04998179283ee5/video.m3u8
+#EXTINF:-1 group-title="Кино", Сапфир
+http://46.53.200.153:7777/play/Sapfir_HD/index.m3u8
+#EXTINF:-1 group-title="Кино", Наш Кинопоказ
+http://46.53.200.153:7777/play/SRT_Nash_kinopokaz/index.m3u8
+#EXTINF:-1 group-title="Кино", Viju TV1000 Новелла HD
+http://46.53.200.153:7777/play/VIJU_TV_1000_novella/index.m3u8
+#EXTINF:-1 group-title="Кино", Viju TV1000 Romantica HD
+http://46.53.200.153:7777/play/Viju_Drama/index.m3u8
+#EXTINF:-1 group-title="Кино", VIP Serial 
+http://46.53.200.153:7777/play/Viju_Serial_HD/index.m3u8
 #EXTINF:-1 group-title="Кино", Vip Comedy
 https://flussonic.mkpnet.ru/tv-c385ec3bab3a3605/video.m3u8
 #EXTINF:-1 group-title="Кино", VIP Megahit HD
@@ -711,6 +721,8 @@ https://flussonic.mkpnet.ru/tv-7a85ea25208f5bf7/video.m3u8
 https://dash2.antik.sk/live/test_ectv_hd_1200/playlist.m3u8
 #EXTINF:-1 group-title="Познавательные", RAZ 3
 https://dash2.antik.sk/live/kvartal_tv/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные", Ultra 4K Extreme
+http://46.53.200.153:7777/play/test_krask1/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Joy Cook
 https://stitch.teletarget.ru/peerstv/joycook/index.m3u8
 #EXTINF:-1 group-title="Познавательные", This is Bulgaria HD
@@ -797,6 +809,8 @@ http://217.174.225.146/hls/ch004_720/index.m3u8
 http://digicom.hls.iptvdc.com/canalmotor/index.m3u8
 #EXTINF:-1 group-title="Спортивные", Primocanale Sport
 https://msh0203.stream.seeweb.it/live/flv:stream2.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Спортивные", Viasat Sport 
+http://46.53.200.153:7777/play/a01l/index.m3u8
 #EXTINF:-1 group-title="Спортивные", KHL
 https://flussonic.mkpnet.ru/tv-e3d23fc7511b5fcd/video.m3u8
 #EXTINF:-1 group-title="Спортивные", NHL Network [US]
@@ -865,6 +879,10 @@ https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.
 http://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m3u8
 #EXTINF:-1 group-title="Музыкальные", City TV
 https://tv.city.bg/play/tshls/citytv/2.m3u8
+#EXTINF:-1 group-title="Музыкальные", Европа плюс ТВ
+http://46.53.200.153:7777/play/EuropaPlus/index.m3u8
+#EXTINF:-1 group-title="Музыкальные", Live music channel
+http://46.53.200.153:7777/play/Live_music_channel/index.m3u8
 #EXTINF:-1 group-title="Музыкальные", AFN Music
 https://bozztv.com/1gbw5/tintv2/tintv2/chunklist.m3u8
 #EXTINF:-1 group-title="Музыкальные", 88 STEREO TV
@@ -1345,6 +1363,10 @@ http://radio.tvs.by:8088/TRO/index.m3u8
 https://ngtrk.dc.beltelecom.by/vtv/_definst_/vitebsk.stream/playlist.m3u8
 #EXTINF:-1 group-title="Беларусь",Интекс Барановичи
 http://86.57.177.44:8110/intex
+#EXTINF:-1 group-title="Беларусь", Буг ТВ
+http://46.53.200.153:7777/play/Bug_TV_HD/index.m3u8
+#EXTINF:-1 group-title="Беларусь", Светлое ТВ
+http://46.53.200.153:7777/play/svetloetv/index.m3u8
 #EXTINF:-1 group-title="Казахстан", МТРК
 https://tvcdn01.oktv.kz/tv/mtrk/index.m3u8
 #EXTINF:-1 group-title="Казахстан", КТК
