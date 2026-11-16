@@ -319,6 +319,18 @@ https://flussonic.mkpnet.ru/tv-ccf8c891702508a7/video.m3u8
 https://flussonic.mkpnet.ru/tv-2997fed720614567/video.m3u8
 #EXTINF:-1 group-title="Кино", Русский роман
 https://flussonic.mkpnet.ru/tv-c90a71c34cc779ac/video.m3u8
+#EXTINF:-1 group-title="Кино", Русский иллюзион
+http://185.46.16.239:8000/Russkiy_Illyuzion
+#EXTINF:-1 group-title="Кино", Иллюзион+
+http://185.46.16.239:8000/Illyuzion+
+#EXTINF:-1 group-title="Кино", Кино ТВ
+http://185.46.16.239:8000/Kino_TV
+#EXTINF:-1 group-title="Кино", Еврокино
+http://185.46.16.239:8000/Yevrokino
+#EXTINF:-1 group-title="Кино", Наше Новое Кино
+http://185.46.16.239:8000/Nickelodeon
+#EXTINF:-1 group-title="Кино", Киномикс
+http://185.46.16.239:8000/Fox_Life_HD
 #EXTINF:-1 group-title="Кино", Советское кино
 http://stitch.teletarget.ru/vintera/sovietmovie/index.m3u8
 #EXTINF:-1 group-title="Кино", Тайна
@@ -365,6 +377,58 @@ https://lbgo.bozztv.com/07/ushba-rfilrms-z/index.m3u8
 https://lbgo.bozztv.com/07/ushba64/index.m3u8
 #EXTINF:-1 group-title="Кинозалы", Кинозалы 14
 https://lbgo.bozztv.com/07/ushba65/index.m3u8
+#EXTINF:-1 group-title="Кинозалы", Танцы 1
+https://rpn3.bozztv.com/dvrfl07/ushba98/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Кинозалы", Танцы 2
+https://rpn3.bozztv.com/dvrfl07/ushba97/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Кинозалы", Танцы 3
+https://rpn3.bozztv.com/dvrfl07/ushba56/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Кинозалы", Тик Ток
+https://rpn3.bozztv.com/dvrfl07/ushba61/index.m3u8
+#EXTINF:-1 group-title="Кинозалы", Gameplay трейлеры
+https://rpn3.bozztv.com/dvrfl07/ushba44/index.m3u8
+#EXTINF:-1 group-title="Кинозалы", Музыка 1
+https://rpn3.bozztv.com/dvrfl07/ushba-t1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Кинозалы", Музыка 2
+https://rpn3.bozztv.com/dvrfl07/ushba-t2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Кинозалы", Музыка 3
+https://rpn3.bozztv.com/dvrfl07/ushba-t3/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Кинозалы", Музыка 4
+https://rpn3.bozztv.com/dvrfl07/ushba-t4/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Кинозалы", Музыка 6
+https://rpn3.bozztv.com/dvrfl07/ushba-monj/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Кинозалы", Музыка 7
+https://rpn3.bozztv.com/dvrfl07/ushba-m3/index.m3u8
+#EXTINF:-1 group-title="Кинозалы", Музыка 8
+https://rpn3.bozztv.com/dvrfl07/ushba66/index.m3u8
+#EXTINF:-1 group-title="Кинозалы", Музыка 9
+https://rpn3.bozztv.com/dvrfl07/ushba-RogerWaters/index.m3u8
+#EXTINF:-1 group-title="Кинозалы", Музыка 10
+https://rpn3.bozztv.com/dvrfl07/ushba-t5/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Кинозалы", Музыка 11
+https://rpn3.bozztv.com/dvrfl07/ushba-m2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Кинозалы", Blues Music
+https://rpn3.bozztv.com/dvrfl07/ushba0/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Кинозалы", Midnight Lust Music
+https://rpn3.bozztv.com/dvrfl07/ushba-midnightlustmusic/index.m3u8
+#EXTINF:-1 group-title="Кинозалы", Mafia
+https://rpn3.bozztv.com/dvrfl07/ushba-mafia/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Кинозалы", Kpop Play TV
+https://rpn3.bozztv.com/dvrfl07/ushba-m4/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Кинозалы", Мода 1
+https://rpn3.bozztv.com/dvrfl07/ushba-t8/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Кинозалы", Мода 2
+https://rpn3.bozztv.com/dvrfl07/ushba-m6/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Кинозалы", Мода 3
+https://rpn3.bozztv.com/dvrfl07/ushba-m7/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Кинозалы", Мода 4
+https://rpn3.bozztv.com/dvrfl07/ushba-m8/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Кинозалы", Мода 5
+https://rpn3.bozztv.com/dvrfl07/ushba-m9/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Кинозалы", Мода 6
+https://rpn3.bozztv.com/dvrfl07/ushba-m1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Кинозалы", Ai Video
+https://rpn3.bozztv.com/dvrfl07/ushba-aivideo/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kggBNFF4/image-46.png" group-title="Кинозалы НТВ", Балабол
 https://cdn-dvr.ntv.ru/Balabol/tracks-v1a1/rewind-240.ts.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Mxv7fjsN/image-32.png" group-title="Кинозалы НТВ", Невский
@@ -495,8 +559,6 @@ https://stream.smotrim.ru/hls3/fasttv02/playlist_3.m3u8
 https://stream.smotrim.ru/hls3/fasttv04/playlist_3.m3u8
 #EXTINF:-1 group-title="Кинозалы Смотрим", Смотрим 100% Факты
 https://stream.smotrim.ru/hls3/fasttv06/playlist_3.m3u8
-#EXTINF:-1 group-title="Детские", Cartoon Network
-https://bl.rutube.ru/livestream/d2119cfb95146b3983cf05c1fe35e66f/index.m3u8?s=SBAsUrxODR6nk6ktHKTpoQ&e=2090795468&scheme=https
 #EXTINF:-1 group-title="Детские", Cartoon Classics
 http://5.188.159.128:8070/Cartoon_Network/index.m3u8
 #EXTINF:-1 group-title="Детские", Gulli Girl
@@ -521,6 +583,12 @@ https://bl.rutube.ru/livestream/ed497bdb28846536f3928849f8f7e469/index.m3u8?s=Gf
 https://flussonic.mkpnet.ru/tv-66968914d630446e/video.m3u8
 #EXTINF:-1 group-title="Детские", Мульт
 https://flussonic.mkpnet.ru/tv-c8b065a591077c26/video.m3u8
+#EXTINF:-1 group-title="Детские", Уникум
+http://185.46.16.239:8000/Detskiy
+#EXTINF:-1 group-title="Детские", В гостях у сказки
+http://185.46.16.239:8000/V_gostyakh_u_skazki
+#EXTINF:-1 group-title="Детские", Ani
+http://185.46.16.239:8000/Ani
 #EXTINF:-1 group-title="Детские", Маша и Медведь
 https://lbgo.bozztv.com/07/ushba79/index.m3u8
 #EXTINF:-1 group-title="Детские", Мультиландия 
@@ -645,6 +713,16 @@ https://dash2.antik.sk/live/test_ectv_hd_1200/playlist.m3u8
 https://dash2.antik.sk/live/kvartal_tv/playlist.m3u8
 #EXTINF:-1 group-title="Познавательные", Joy Cook
 https://stitch.teletarget.ru/peerstv/joycook/index.m3u8
+#EXTINF:-1 group-title="Познавательные", This is Bulgaria HD
+https://streamer103.neterra.tv/thisisbulgaria/thisisbulgaria_HD.m3u8
+#EXTINF:-1 group-title="Познавательные", Живая планета
+http://185.46.16.239:8000/Zhivaya_Planeta
+#EXTINF:-1 group-title="Познавательные", Наука 2.0
+http://185.46.16.239:8000/Nauka_2.0
+#EXTINF:-1 group-title="Познавательные", История
+http://185.46.16.239:8000/Istoriya
+#EXTINF:-1 group-title="Познавательные",Драйв
+http://185.46.16.239:8000/Drayv
 #EXTINF:-1 group-title="Познавательные", Авто 24
 https://flussonic.mkpnet.ru/tv-a5fa84789fc4add5/video.m3u8
 #EXTINF:-1 group-title="Познавательные", Аква ТВ
@@ -707,6 +785,8 @@ https://hls.tv.3angels.ru/stream.m3u8
 https://hls-mycdn08724960135.cdnvideo.ru/mycdn08724960135/stream1/playlist.m3u8
 #EXTINF:-1 group-title="Религиозные", ТБН Россия
 https://5d23269b3ec0c.streamlock.net/WEB_TBN/TBN.stream/playlist.m3u8
+#EXTINF:-1 group-title="Религиозные", TBN BALTIA
+http://dc.tbnbaltia.eu:8088/web/tracks-v1a1/rewind-21600.ts.m3u8
 #EXTINF:-1 group-title="Спортивные", 1TV Sport
 https://tv.cdn.xsg.ge/gpb-2tv/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Спортивные", Extreme Sports
@@ -769,6 +849,10 @@ https://bl.webcaster.pro/media/playlist/free_672d700f2f9510be660253786e4406fe_hd
 http://live-3.otcnet.ru/sportivny/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Спортивные", Удар
 http://5.188.159.128:8070/udar/index.m3u8
+#EXTINF:-1 group-title="Спортивные" tvg-logo="https://ushba.tv/assets/images/logo-roku1.png" ,Спорт
+https://rpn3.bozztv.com/dvrfl07/ushba46/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Спортивные" tvg-logo="https://ushba.tv/assets/images/logo-roku1.png" ,Овертайм
+https://rpn3.bozztv.com/dvrfl07/ushba55/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Музыкальные",Жара
 https://flussonic.mkpnet.ru/tv-3cdc33d3606ba23f/video.m3u8
 #EXTINF:-1 group-title="Музыкальные",Bridge TV
@@ -779,6 +863,16 @@ http://stream.mcquack.net/276/index.m3u8
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
 #EXTINF:-1 group-title="Музыкальные", Deluxe Rap
 http://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m3u8
+#EXTINF:-1 group-title="Музыкальные", City TV
+https://tv.city.bg/play/tshls/citytv/2.m3u8
+#EXTINF:-1 group-title="Музыкальные", AFN Music
+https://bozztv.com/1gbw5/tintv2/tintv2/chunklist.m3u8
+#EXTINF:-1 group-title="Музыкальные", 88 STEREO TV
+http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8
+#EXTINF:-1 group-title="Музыкальные", Afrobeats TV
+https://stream.ecable.tv/afrobeats/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Музыкальные", Company TV
+https://company.fluid.stream/CompanyTV/smil:Company_ALL.smil/playlist_slita.m3u8
 #EXTINF:-1 group-title="Музыкальные", CHD RU Rock HD
 http://194.26.229.213/chdtv_ru_rock/index.m3u8
 #EXTINF:-1 group-title="Музыкальные", CHD Rock HD
@@ -889,8 +983,6 @@ https://listen2.myradio24.com/8118
 https://strm112.1.fm/dance_mobile_mp3?aw_0_req.gdpr=true&listenerid=1743001209878_0.01621769389726002&awparams=companionAds%3Atrue
 #EXTINF:-1 group-title="Радио", Trance Hits
 https://radiorecord.hostingradio.ru/trancehits96.aacp
-#EXTINF:-1 group-title="Радио", Супердискотека 90-х
-https://radiorecord.hostingradio.ru/sd9096.aacp
 #EXTINF:-1 group-title="Радио", Relax FM Gold
 https://pub0201.101.ru/stream/trust/mp3/128/266
 #EXTINF:-1 group-title="Радио", Радио FM
@@ -1219,6 +1311,8 @@ https://bsttv.bonus-tv.ru/cdn/salyam/playlist.m3u8
 http://serv30.vintera.tv:8081/sarov/sarov_stream/playlist.m3u8
 #EXTINF:-1 group-title="Региональные" ,Сочи 24
 http://serv30.vintera.tv:8081/sochi/sochi24_tv/playlist.m3u8
+#EXTINF:-1 group-title="Региональные", Sochi Live HD
+http://serv30.vintera.tv:8081/sochi/sochi_stream/chunks.m3u8
 #EXTINF:-1 group-title="Региональные" ,Тверской проспект
 http://stream.fastlnk.ru:88/Tverskojj_prospekt/index.m3u8
 #EXTINF:-1 group-title="Региональные" ,ТСТ (Черемхово)
@@ -1227,6 +1321,8 @@ http://5.183.155.8:88/stream.m3u8
 https://live-ugratv.cdnvideo.ru/ugratv/ugratv/playlist.m3u8
 #EXTINF:-1 group-title="Региональные" ,Эхо ТВ 24
 http://stream.novouralsk-news.ru/echotv24/echotv24-576p.m3u8
+#EXTINF:-1 group-title="Абхазия",Абаза ТВ
+https://public.apsny.camera/tv_abaza_tv_to_site/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Беларусь",Беларусь 1
 https://edge50.dc.beltelecom.by/ngtrk/smil:belarus1.smil/chunklist_b5160000_sleng.m3u8
 #EXTINF:-1 group-title="Беларусь",Беларусь 2
@@ -1247,8 +1343,12 @@ https://edge50.dc.beltelecom.by/ctv/ctv.stream/chunklist_b5160000_sleng.m3u8
 http://radio.tvs.by:8088/TRO/index.m3u8
 #EXTINF:-1 group-title="Беларусь",Витебск
 https://ngtrk.dc.beltelecom.by/vtv/_definst_/vitebsk.stream/playlist.m3u8
+#EXTINF:-1 group-title="Беларусь",Интекс Барановичи
+http://86.57.177.44:8110/intex
 #EXTINF:-1 group-title="Казахстан", МТРК
 https://tvcdn01.oktv.kz/tv/mtrk/index.m3u8
+#EXTINF:-1 group-title="Казахстан", КТК
+https://wz-kt.ktk.kz/ktklive/smil:ktk-live.smil/playlist.m3u8
 #EXTINF:-1 group-title="Казахстан", Qazaqstan
 https://qazaqstantv-stream.qazcdn.com/international/international/playlist.m3u8
 #EXTINF:-1 group-title="Казахстан", Новое
