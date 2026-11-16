@@ -439,26 +439,20 @@ https://rpn3.bozztv.com/dvrfl07/ushba-m9/tracks-v1a1/mono.m3u8
 https://rpn3.bozztv.com/dvrfl07/ushba-m1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кинозалы", Ai Video
 https://rpn3.bozztv.com/dvrfl07/ushba-aivideo/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kggBNFF4/image-46.png" group-title="Кинозалы НТВ", Балабол
-https://cdn-dvr.ntv.ru/Balabol/tracks-v1a1/rewind-240.ts.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Mxv7fjsN/image-32.png" group-title="Кинозалы НТВ", Невский
-https://cdn-dvr.ntv.ru/Nevskiy/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/7tSd2XYf/image-31.png" group-title="Кинозалы НТВ", Первый Отдел
-https://cdn-dvr.ntv.ru/Perviy_otdel/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/HpNJPkGR/image-47.png" group-title="Кинозалы НТВ", Пять минут тишины
-https://cdn-dvr.ntv.ru/5_minut_tishiny/tracks-v1a1/rewind-240.ts.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/nsjTTHm2/image-44.png" group-title="Кинозалы НТВ", Пёс
-https://cdn-dvr.ntv.ru/Pes/tracks-v1a1/rewind-240.ts.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/p6gZ2BXn/image-4.png" group-title="Кинозалы НТВ", Своя Игра
-https://cdn-dvr.ntv.ru/svoya_igra/tracks-v1a1/rewind-240.ts.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ynB5bFXQ/image-45.png" group-title="Кинозалы НТВ", Скорая помощь
+#EXTINF:-1 group-title="Кинозалы НТВ" tvg-logo="https://cdn2-static.ntv.ru/home/schedule/2025/20250926/sp_vert_live8.jpg", Скорая помощь
 https://cdn-dvr.ntv.ru/Skoraja_pomosh/tracks-v1a1/rewind-240.ts.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/nMsMD0Q4/image-34.png" group-title="Кинозалы НТВ", Следствие вели...
-https://cdn-dvr.ntv.ru/sledstvie/tracks-v1a1/rewind-240.ts.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/CpYZFf54/image-38.png" group-title="Кинозалы НТВ", Ты супер !
-https://cdn-dvr.ntv.ru/Super/tracks-v1a1/rewind-240.ts.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/pBZQdVdM/image-30.png" group-title="Кинозалы НТВ", Шеф
-https://cdn-dvr.ntv.ru/Shef/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Кинозалы НТВ" tvg-logo="https://cdn2-static.ntv.ru/home/schedule/2025/20250926/pes_live_vert.jpg", Пёс
+https://cdn-dvr.ntv.ru/Pes/tracks-v1a1/rewind-240.ts.m3u8
+#EXTINF:-1 group-title="Кинозалы НТВ" tvg-logo="https://cdn2-static.ntv.ru/home/schedule/2025/20250926/1st_otdel_vert_live.jpg", Первый отдел
+https://cdn-dvr.ntv.ru/Perviy_otdel/tracks-v1a1/rewind-240.ts.m3u8
+#EXTINF:-1 group-title="Кинозалы НТВ" tvg-logo="https://cdn2-static.ntv.ru/home/schedule/2025/20250926/shef_vert_live_1.jpg", Шеф
+https://cdn-dvr.ntv.ru/Shef/tracks-v1a1/rewind-240.ts.m3u8
+#EXTINF:-1 group-title="Кинозалы НТВ" tvg-logo="https://cdn2-static.ntv.ru/home/schedule/2025/20250926/nevs_black_live3.jpg", Невский
+https://cdn-dvr.ntv.ru/Nevskiy/tracks-v1a1/rewind-240.ts.m3u8
+#EXTINF:-1 group-title="Кинозалы НТВ" tvg-logo="https://cdn2-static.ntv.ru/home/schedule/2025/20251021/balabol_vse_vert.jpg", Балабол
+https://cdn-dvr.ntv.ru/Balabol/tracks-v1a1/rewind-240.ts.m3u8
+#EXTINF:-1 group-title="Кинозалы НТВ" tvg-logo="https://cdn2-static.ntv.ru/home/schedule/2025/20251021/5minut_vert.jpg", Пять минут тишины
+https://cdn-dvr.ntv.ru/5_minut_tishiny/tracks-v1a1/rewind-240.ts.m3u8
 #EXTINF:-1 group-title="Кинозалы Сити Эдем",Сити Эдем - Meditation Music
 https://cityeden.catcast.tv/content/47410/index.m3u8
 #EXTINF:-1 group-title="Кинозалы Сити Эдем",Сити Эдем - Play Христианский Музыкальный
@@ -849,8 +843,12 @@ https://flussonic.mkpnet.ru/tv-1bfac9df3d938c1f/video.m3u8
 https://flussonic.mkpnet.ru/tv-ee3651e1e7ce5cbf/video.m3u8
 #EXTINF:-1 group-title="Спортивные", Матч! Страна
 https://flussonic.mkpnet.ru/tv-6db4f59c21aec361/video.m3u8
+#EXTINF:-1 group-title="Спортивные", Матч! Футбол 1
+http://31.148.5.241/Match_Football_1_HD/index.m3u8
+#EXTINF:-1 group-title="Спортивные", Матч! Футбол 2
+http://31.148.5.241/Match_Football_2_HD/index.m3u8
 #EXTINF:-1 group-title="Спортивные", Матч! Футбол 3
-http://185.57.68.33/110/index.m3u8
+http://31.148.5.241/Match_Football_3_HD/index.m3u8
 #EXTINF:-1 group-title="Спортивные", Мото Драйв ТВ
 https://stitch.teletarget.ru/vintera/motodrive/index.m3u8
 #EXTINF:-1 group-title="Спортивные", Старт
@@ -1379,8 +1377,14 @@ https://serv25.vintera.tv/novoetv/nov_tv/playlist.m3u8
 https://live-rikatv.cdnvideo.ru/rikatv/rikatv_tcode.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Кыргызстан", ОшТВ
 http://212.42.117.34:8080/hls/OshTV.m3u8
+#EXTINF:-1 group-title="Узбекистан", ITV Cinema
+https://iptv.itv.uz/hls/live/t/Yv8TO7PtCQ-DJIbxOr9N_g/e/1799038269/4000/index.m3u8
+#EXTINF:-1 group-title="Узбекистан", ITV Music
+https://iptv.itv.uz/hls/live/t/iR8iDnzqJIQrEetuXnP3iA/e/1799038327/4001/index.m3u8
 #EXTINF:-1 group-title="Узбекистан", Солнечный
 https://fl.biztv.media/stv_1080_bizstvvietfujeyrah/index.m3u8
+#EXTINF:-1 group-title="Украина", Закон ТВ
+http://195.189.60.253/zakon_tv_hd/video.m3u8
 #EXTINF:-1 group-title="Молдавия", ТСВ
 https://tsv.md/stream/hls/tsv-online/index.m3u8
 #EXTINF:-1 group-title="Взрослые 18+",Русская ночь
